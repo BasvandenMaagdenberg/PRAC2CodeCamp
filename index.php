@@ -1,18 +1,10 @@
 <!doctype html>
 <html encoding="utf-8" lang="nl">
 
-<head>
-  <meta charset="utf-8">
-  <title>codecamp</title>
-  <meta name="description" content="">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-
-  <link rel="stylesheet" href="css/normalize.css">
-  <link rel="stylesheet" href="css/main.css">
-</head>
+<?php require_once'head.php'; ?>
 
 <body>
-
+<?php require_once'header.php';?>
   <!-- Add your site or application content here -->
   <p>Hello world! This is HTML5 Boilerplate.</p>
   <script src="js/vendor/modernizr-3.11.2.min.js"></script>
