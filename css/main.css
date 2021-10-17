@@ -90,12 +90,28 @@ textarea {
 .container{
   /* display: flex; */
   color: red;
-  max-width: 1080px;
+  max-width: 900px;
   border:3px solid black;
   margin:0 auto;
 
 
   /* align-items: center; */
+}
+
+.container darthvader{
+  background-color: yellow;
+}
+
+/* .container .InfoImg{
+  display: flex;
+  justify-content: flex-end;
+} */
+
+.InfoImg img{
+  margin: 0px 25px 25px 25px;
+  float: right;
+  max-width: 350px;
+  max-height: auto;
 }
 
 
