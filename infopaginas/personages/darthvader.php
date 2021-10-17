@@ -10,8 +10,9 @@
     <body>
         <div class="container"> 
             <h1>Darth Vader</h1>
-            <div class="dartvaderimg">
-            <img src="img" alt="Img Darth Vader">
+            <div class="InfoImg">
+                <img src="../../img/darthvader-starwars.jpg" alt="Img Darth Vader">
+            </div>
             <div class="darthvadertext">
                 <p><b>Darth Vader</b> is a central character in the Star Wars universe, appearing as the central antagonist of the original trilogy.</p>
                 <p>He is the Sith Lord persona of the fallen Jedi Knight Anakin Skywalker after his turn to the dark side. He remains the central antagonist until the events of Return of the Jedi, when he eventually redeems himself to save his son, Luke Skywalker from his master Darth Sidious, fulfilling the Prophecy as the Chosen One.
