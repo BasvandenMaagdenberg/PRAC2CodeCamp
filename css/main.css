@@ -172,23 +172,33 @@ textarea {
   margin:0 auto;
 }
 
+/* Info pagina darth vader */
 main{
-  background-color: yellow;
+  background-color: #FFFFE0		;
 }
-
+.darthvaderPage{
+  margin: 30px 30px;
+}
 .darthvadertext{
-  padding: 25px;
+  font-size: 19px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+/* font */
+.container h1{
+  margin:0;
+  font-size: 50px;
+  text-align: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* image */
 .InfoImg img{
-  margin: 0px 25px 25px 25px;
+  margin: 20px 25px 25px 25px;
   float: right;
   max-width: 350px;
   max-height: auto;
 }
-
-
-
 /* ==========================================================================
    Helper classes
    ========================================================================== */
