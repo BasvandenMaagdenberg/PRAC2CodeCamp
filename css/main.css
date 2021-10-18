@@ -172,16 +172,26 @@ textarea {
   margin:0 auto;
 }
 
+/* Alle info pagina's */
+.darthvadertext , .lukeskywalkertext{
+  font-size: 19px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
 /* Info pagina darth vader */
-main{
+main .InfoPaginaDarthVader{
   background-color: #FFFF66	;
 }
 .darthvaderPage{
-  margin: 30px 30px;
+  padding-top: 20px;
 }
-.darthvadertext{
-  font-size: 19px;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+/* Info pagina luke skywalker */
+main .InfoPaginaLukeSkywalker{
+  background-color: rgb(49, 117, 49);
+}
+.lukeskywalkerPage{
+  padding-top: 20px;
 }
 
 /* font */
