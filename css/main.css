@@ -173,7 +173,7 @@ textarea {
 }
 
 /* Alle info pagina's */
-.DarthVadertext , .LukeSkywalkertext, .TimothyDaltontext{
+.DarthVadertext, .LukeSkywalkertext, .TimothyDaltontext, .RogerMooretext{
   font-size: 19px;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
@@ -186,11 +186,16 @@ main .InfoPaginaDarthVader{
   padding-top: 20px;
 }
 
-/* Info pagina luke skywalker en Timothy Dalton*/
+/* Info pagina luke skywalker Timothy Dalton*/
 main .InfoPaginaLukeSkywalker, main .InfoPaginaTimothyDalton{
   background-color: rgb(79, 165, 79);
 }
 .LukeSkywalkerPage, .TimothyDaltonPage{
+  padding-top: 20px;
+}
+
+/* Info pagina Roger Moore, James bond films */
+.RogerMoorePage{
   padding-top: 20px;
 }
 
