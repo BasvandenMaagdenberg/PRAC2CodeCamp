@@ -8,12 +8,12 @@
         <main>
             <div class="InfoPaginaLukeSkywalker">
                 <div class="container"> 
-                    <div class="lukeskywalkerPage">
+                    <div class="LukeSkywalkerPage">
                         <h1>Luke Skywalker</h1>
                         <div class="InfoImg">
                             <img src="../../img/Luke_Skywalker.png" alt="Img Luke Skywalker">
                         </div>
-                        <div class="lukeskywalkertext">
+                        <div class="LukeSkywalkertext">
                             <p><b>Luke Skywalker is een personage uit de Star Warssaga, gespeeld door acteur Mark Hamill. Luke is de tweelingbroer van prinses Leia. Hun ouders zijn Padmé Amidala en Anakin Skywalker. Skywalker werd opgevoed door zijn oom Owen Lars en tante Beru Whitesun Lars.</b></p>
 
                             <h2>Biografie</h2><h3>Episode III: Revenge of the Sith</h3>
