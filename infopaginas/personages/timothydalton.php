@@ -8,12 +8,12 @@
         <main>
             <div class="InfoPaginaTimothyDalton">
                 <div class="container"> 
-                    <div class="TimothyDaltonPage">
+                    <div class="InfoPage">
                         <h1>Timothy Dalton</h1>
                         <div class="InfoImg">
                             <img src="../../img/timothy-dalton.jpg" alt="Img Timothy Dalton">
                         </div>
-                        <div class="TimothyDaltontext">
+                        <div class="InfoText">
                             <p><b>Timothy Dalton (Colwyn Bay, 21 maart 1946) is een Brits acteur.</b></p>
 
                             <h3>Biografie</h3>

@@ -8,23 +8,58 @@
         <main>
             <div class="InfoPaginaRogerMoore">
                 <div class="container"> 
-                    <div class="RogerMoorePage">
+                    <div class="InfoPage">
                         <h1>Roger Moore</h1>
                         <div class="InfoImg">
                             <img src="../../img/roger-moore-james.png" alt="Img Roger Moore">
                         </div>
-                        <div class="RogerMooretext">
+                        <div class="InfoText">
                             <p><b>Sir Roger George Moore (Stockwell, Lambeth, Londen, 14 oktober 1927 – Crans-Montana, Zwitserland, 23 mei 2017) was een Britse acteur die vooral bekend werd door zijn rollen in de series Ivanhoe, The Saint en The Persuaders (in Nederland uitgezonden als De Versierders en in België als De Speelvogels). Verder speelde hij de rol van geheim agent James Bond in zeven Bondfilms, die uitkwamen tussen 1973 en 1985.</b></p>
 
                             <h2>James Bond</h2>
-                            <p>8	Live and Let Die	1973	Roger Moore	$ 7.000.000	$ 126.000.000	6,8[15]
-                                9	The Man with the Golden Gun	1974	$ 13.000.000	$ 97.600.000	6,8[16]
-                                10	The Spy Who Loved Me	1977	Lewis Gilbert	$ 14.000.000	$ 185.400.000	7,1[17]
-                                11	Moonraker	1979	$ 34.000.000	$ 210.300.000	6,3[18]
-                                12	For Your Eyes Only	1981	John Glen	$ 28.000.000	$ 194.900.000	6,8[19]
-                                13	Octopussy	1983	$ 27.500.000	$ 187.500.000	6,6[20]
-                                14	A View to a Kill	1985	$ 30.000.000	$ 152.400.000	6,3[21]
-                            </p>
+
+                            <table>
+                                <tr>
+                                    <th>Films</th>
+                                    <th>Jaar</th>
+                                    <th>Budget</th>
+                                </tr>
+                                <tr>
+                                    <td>Live and Let Die</td>
+                                    <td>1973</td>
+                                    <td>$7.000.000</td>
+                                </tr>
+                                <tr>
+                                    <td>The Man with the Golden Gun</td>
+                                    <td>1974</td>
+                                    <td>$ 13.000.000</td>
+                                </tr>
+                                <tr>
+                                    <td>The Spy Who Loved Me</td>
+                                    <td>1977</td>
+                                    <td>$ 14.000.000</td>
+                                </tr>
+                                <tr>
+                                    <td>Moonraker</td>
+                                    <td>1979</td>
+                                    <td>$ 34.000.000</td>
+                                </tr>
+                                <tr>
+                                    <td>For Your Eyes Only</td>
+                                    <td>1981</td>
+                                    <td>$ 28.000.000</td>
+                                </tr>
+                                <tr>
+                                    <td>Octopussy</td>
+                                    <td>1983</td>
+                                    <td>$ 27.500.000</td>
+                                </tr>
+                                <tr>
+                                    <td>A View to a Kill</td>
+                                    <td>1985</td>
+                                    <td>$ 30.000.000</td>
+                                </tr>
+                            </table>
                         </div>
                     </div>
                 </div>
