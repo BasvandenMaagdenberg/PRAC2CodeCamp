@@ -9,7 +9,7 @@
         <main>
             <div class="SongtextMadness">
                 <div class="container">
-                    <h1>Madness</h1>    
+                    <h1>Plug in Baby</h1>    
                     <div class="InfoImg">
                         <img src="../../img/MusePlugInBaby.jpg">
                     </div>

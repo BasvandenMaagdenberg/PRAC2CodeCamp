@@ -9,12 +9,61 @@
         <main>
             <div class="SongtextMadness">
                 <div class="container">
-                    <h1>Madness</h1>    
+                    <h1>Uprise</h1>    
                     <div class="InfoImg">
-                        <img src="../../img/MuseMadness.jpg">
+                        <img src="../../img/MuseUprise.jpg">
                     </div>
                     <div class="Songtext">
-                     <p></p>   
+                     <p>
+                        Paranoia is in bloom<br>
+                        The PR transmissions will resume<br>
+                        They'll try to push drugs that keep us all dumbed down<br>
+                        And hope that we will never see the truth around<br>
+                        (So come on)<br>
+                        <br>
+
+                        Another promise, another scene<br>
+                        Another packaged lie to keep us trapped in greed<br>
+                        And all the green belts wrapped around our minds<br>
+                        And endless red tape to keep the truth confined<br>
+                        (So come on)<br>
+                        <br>
+
+                        They will not force us<br>
+                        They will stop degrading us<br>
+                        They will not control us<br>
+                        We will be victorious<br>
+                        (So come on)<br>
+                        <br>
+
+                        Interchanging mind control<br>
+                        Come, let the revolution take its toll<br>
+                        If you could flick the switch and open your third eye<br>
+                        You'd see that we should never be afraid to die<br>
+                        (So come on)<br>
+                        <br>
+
+                        Rise up and take the power back<br>
+                        It's time the fat cats had a heart attack<br>
+                        You know that their time's coming to an end<br>
+                        We have to unify and watch our flag ascend<br>
+                        (So come on)<br>
+                        <br>
+
+                        They will not force us<br>
+                        They will stop degrading us<br>
+                        They will not control us<br>
+                        We will be victorious<br>
+                        (So come on)<br>
+                        <br>
+
+                        They will not force us<br>
+                        They will stop degrading us<br>
+                        They will not control us<br>
+                        We will be victorious<br>
+                        (So come on)<br>
+                        <br>
+                     </p>   
                     </div>
                     
                 </div>
