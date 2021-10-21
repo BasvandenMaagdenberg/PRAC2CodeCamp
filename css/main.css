@@ -172,8 +172,15 @@ textarea {
   margin:0 auto;
 }
 
-/* Alle info pagina's */
-.InfoText{
+/* Songtext pages */
+.Songtext{
+  font-size: 19px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+/* All info pages */
+.InfoText {
   font-size: 19px;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
@@ -181,12 +188,12 @@ textarea {
   padding-top: 20px;
 }
 
-/* Info pagina darth vader */
+/* Info page darth vader */
 main .InfoPaginaDarthVader{
   background-color: #FFFF66	;
 }
 
-/* Info pagina luke skywalker Timothy Dalton*/
+/* Info pages luke skywalker and Timothy Dalton*/
 main .InfoPaginaLukeSkywalker, main .InfoPaginaTimothyDalton{
   background-color: rgb(79, 165, 79);
 }
@@ -198,8 +205,15 @@ main .InfoPaginaLukeSkywalker, main .InfoPaginaTimothyDalton{
   text-align: center;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+.container h3{
+  color: grey;
+  margin:0;
+  font-size: 25px;
+  text-align: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
 
-/* image */
+/* images for every page */
 .InfoImg img{
   margin: 20px 25px 25px 25px;
   float: right;
