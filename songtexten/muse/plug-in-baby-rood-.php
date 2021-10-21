@@ -9,7 +9,8 @@
         <main>
             <div class="SongtextPluginbaby2">
                 <div class="container">
-                    <h1>Plug in Baby</h1>    
+                    <h1>Plug in Baby</h1>
+                    <h3>Muse</h3>
                     <div class="InfoImg">
                         <img src="../../img/MusePlugInBaby.jpg">
                     </div>

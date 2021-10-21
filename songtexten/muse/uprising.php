@@ -9,7 +9,8 @@
         <main>
             <div class="SongtextUprise">
                 <div class="container">
-                    <h1>Uprise</h1>    
+                    <h1>Uprising</h1>
+                    <h3>Muse</h3>
                     <div class="InfoImg">
                         <img src="../../img/MuseUprise.jpg">
                     </div>
