@@ -9,8 +9,10 @@
         <main>
             <div class="SongtextMadness">
                 <div class="container">
-                    <h1>Madness</h1>    
-                    <img class="SongtextImg"src="../../img/MuseMadness.jpg">
+                    <h1>Madness</h1>
+                    <div class="InfoImg">
+                        <img src="../../img/MuseMadness.jpg">
+                    </div>
                     <div class="Songtext">
                         <p>
                         I, I can't get these memories out of my mind<br>
