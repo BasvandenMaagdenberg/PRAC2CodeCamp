@@ -8,12 +8,12 @@
         <main>
             <div class="InfoPaginaDarthVader">
                 <div class="container"> 
-                    <div class="DarthVaderPage">
+                    <div class="InfoPage">
                         <h1>Darth Vader</h1>
                         <div class="InfoImg">
                             <img src="../../img/darthvader-starwars.jpg" alt="Img Darth Vader">
                         </div>
-                        <div class="DarthVadertext">
+                        <div class="InfoText">
                             <p><b>Darth Vader is een personage uit de Star Wars-films. Hij is als Sith-leerling ondergeschikt aan keizer Palpatine, ook bekend als Darth Sidious.</b></p>
                             <p>In de jaren 1977, 1980 en 1983 werd Darth Vader gespeeld door acteur David Prowse en stuntman Bob Anderson. Zijn stem werd echter ingesproken door James Earl Jones, omdat diens stem veel zwaarder, duisterder en dreigender klonk.
                             Darth Vader is een dienaar van de kwaadaardige keizer Palpatine (Darth Sidious) en een wreed persoon. Hij is vooral te herkennen aan zijn donkere kostuum, zijn zware stem, en zijn enorme omvang. Hij wordt zowel gevreesd door de Rebellen, als door zijn eigen troepen.</p>
