@@ -7,7 +7,7 @@
         <?php require_once '../../header.php';  ?>
         </header>
         <main>
-            <div class="SongtextMadness">
+            <div class="SongtextUprise">
                 <div class="container">
                     <h1>Uprise</h1>    
                     <div class="InfoImg">
