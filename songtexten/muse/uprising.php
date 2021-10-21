@@ -12,7 +12,7 @@
                     <h1>Uprising</h1>
                     <h3>Muse</h3>
                     <div class="InfoImg">
-                        <img src="../../img/MuseUprise.jpg">
+                        <img src="../../img/Uprising-Muse.jpg">
                     </div>
                     <div class="Songtext">
                      <p>
