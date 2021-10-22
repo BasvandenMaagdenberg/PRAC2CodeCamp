@@ -1,28 +1,38 @@
 <!doctype html>
 <html encoding="utf-8" lang="nl">
 
-<?php require_once'../head.php'; ?>
+<?php require_once'../../head.php'; ?>
 
 <body>
-<?php require_once'../header.php';?>
+<?php require_once'../../header.php';?>
 
   <main>
-    <div class="backbutton">
-      <button class="backbtn" onclick="goBack()">
-        Ga Terug <<<
-      </button>
-    </div>
       <div class="container"> 
         <div class="cato-keuze-temp">
           <div class="cato-temp-wrapper">
-            <h3>warme dranken</h3>
+            <h3>bohemian rhapsody</h3>
+            <img src="" alt="">
+            <p>beschrijving van de catogorie. hier vertel je iets over wat de keuze in houd om de gebruiker een beter beeld te geven over wat ze kunnen vinden binnen deze catogorie.</p>
+
+            <button>
+              <a href="<?php echo $base_url;?>songtexten/queen/bohemianrhapsody.php">
+                <h4>
+                  bohemian rhapsody
+                </h4>
+              </a>
+            </button>
+          </div>
+        </div>
+        <div class="cato-keuze-temp">
+          <div class="cato-temp-wrapper">
+            <h3>We are the champion</h3>
               <img src="" alt="">
               <p>beschrijving van de catogorie. hier vertel je iets over wat de keuze in houd om de gebruiker een beter beeld te geven over wat ze kunnen vinden binnen deze catogorie.</p>
 
               <button>
-                <a href="<?php echo $base_url;?>/dranken/warm.php">
+                <a href="<?php echo $base_url;?>songtexten/queen/champion.php">
                   <h4>
-                    warme dranken
+                    We are the champion
                   </h4>
                 </a>
               </button>
@@ -30,21 +40,21 @@
         </div>
       <div class="cato-keuze-temp">
         <div class="cato-temp-wrapper">
-          <h3>frisdranken</h3>
+          <h3>Killer Queen</h3>
           <img src="" alt="">
           <p>beschrijving van de catogorie. hier vertel je iets over wat de keuze in houd om de gebruiker een beter beeld te geven over wat ze kunnen vinden binnen deze catogorie.</p>
 
           <button>
-            <a href="<?php echo $base_url;?>dranken/frisdranken.php">
+            <a href="<?php echo $base_url;?>songtexten/queen/killerqueen.php">
               <h4>
-                frisdranken
+                Killer Queen
               </h4>
             </a>
           </button>
         </div>
       </div>
     </div>
-  </div>  
+      </div>  
   </main>
   <!-- Add your site or application content here -->s
   <script src="js/vendor/modernizr-3.11.2.min.js"></script>
@@ -53,9 +63,6 @@
 
   <!-- Google Analytics: change UA-XXXXX-Y to be your site's ID. -->
   <script>
-    //================ zelf toegevoegd =================  
-    function goBack() {  window.history.back();   }
-    // =================================================
     window.ga = function () { ga.q.push(arguments) }; ga.q = []; ga.l = +new Date;
     ga('create', 'UA-XXXXX-Y', 'auto'); ga('set', 'anonymizeIp', true); ga('set', 'transport', 'beacon'); ga('send', 'pageview')
   </script>
