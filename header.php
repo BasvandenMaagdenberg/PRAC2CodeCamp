@@ -1,13 +1,13 @@
 <?php $base_url = 'http://localhost/PRA2CodeCamp/';?>
 <div class="navbar">
-  <img class="logo" src="img/codecamp.png" alt="logo van het bedrijf codecamp">
+  <img class="logo" src="<?php echo $base_url;?>img/codecamp.png" alt="logo van het bedrijf codecamp">
   <div class="homebtn">
     <button class="dropbtn-home"><a href="<?php echo $base_url;?>index.php">home</a></button> 
   </div>
   <div class="dropdown">
       
     <div class="dropdown">  
-      <button class="dropbtn"> Dranken
+      <button class="dropbtn"><a href="<?php echo $base_url;?>dranken/catagorien.php">Dranken</a> 
         <i class="fa fa-caret-down"></i>
       </button>
       <div class="dropdown-content">
@@ -18,7 +18,7 @@
   </div>
 
   <div class="dropdown">
-    <button class="dropbtn"> Infopagina's 
+    <button class="dropbtn"><a href="<?php echo $base_url;?>infopaginas/catagorien.php">Infopagina's</a> 
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
@@ -29,7 +29,7 @@
   </div>
 
   <div class="dropdown">
-    <button class="dropbtn"><a href="<?php echo $base_url;?>infopaginas/personages/catagorien.php">Artiesten en Songtexten</a>
+    <button class="dropbtn"><a href="<?php echo $base_url;?>songtexten/artiestencatogorieen.php">Artiesten en Songtexten</a>
       <i class="fa fa-caret-down"></i>
     </button>
       <div class="dropdown-content">
