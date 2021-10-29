@@ -46,9 +46,7 @@
 	      </a>
       </button>
   </div>
-  <div class="breadcrums">
-  	<?php echo "<script> document.goBack(.$url); </script>";?>
-  </div>
+
 <div class="breadcrumb-container">	
 
 
