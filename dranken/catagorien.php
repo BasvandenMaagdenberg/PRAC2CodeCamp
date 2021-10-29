@@ -7,11 +7,6 @@
 <?php require_once'../header.php';?>
 
   <main>
-    <div class="backbutton">
-      <button class="backbtn" onclick="goBack()">
-        Ga Terug <<<
-      </button>
-    </div>
       <div class="container"> 
         <div class="cato-keuze-temp">
           <div class="cato-temp-wrapper">
@@ -53,9 +48,6 @@
 
   <!-- Google Analytics: change UA-XXXXX-Y to be your site's ID. -->
   <script>
-    //================ zelf toegevoegd =================  
-    function goBack() {  window.history.back();   }
-    // =================================================
     window.ga = function () { ga.q.push(arguments) }; ga.q = []; ga.l = +new Date;
     ga('create', 'UA-XXXXX-Y', 'auto'); ga('set', 'anonymizeIp', true); ga('set', 'transport', 'beacon'); ga('send', 'pageview')
   </script>
