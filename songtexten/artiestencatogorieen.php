@@ -15,7 +15,7 @@
           <p>beschrijving van de catogorie. hier vertel je iets over wat de keuze in houd om de gebruiker een beter beeld te geven over wat ze kunnen vinden binnen deze catogorie.</p>
 
           <button>
-            <a href="">
+            <a href="<?php echo $base_url;?>songtexten/muse/catagorien.php">
               <h4>
                 Muse
               </h4>
@@ -30,7 +30,7 @@
           <p>beschrijving van de catogorie. hier vertel je iets over wat de keuze in houd om de gebruiker een beter beeld te geven over wat ze kunnen vinden binnen deze catogorie.</p>
 
           <button>
-            <a href="songtexten/artiestencatogorieen.php">
+            <a href="<?php echo $base_url;?>songtexten/queen/catagorien.php">
               <h4>
                 Queen
               </h4>
