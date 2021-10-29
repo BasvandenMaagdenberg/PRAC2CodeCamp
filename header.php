@@ -1,6 +1,6 @@
 <?php $base_url = 'http://localhost/PRA2CodeCamp/';?>
 <div class="navbar">
-  <img class="logo" src="<?php echo $base_url;?>img/codecamp.png" alt="logo van het bedrijf codecamp">
+  <a id="home"href="<?php echo $base_url;?>index.php"><img class="logo" src="<?php echo $base_url;?>img/codecamp.png" alt="logo van het bedrijf codecamp"></a>
   <div class="homebtn">
     <button class="dropbtn-home"><a href="<?php echo $base_url;?>index.php">home</a></button> 
   </div>
