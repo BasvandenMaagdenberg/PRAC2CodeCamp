@@ -6,10 +6,24 @@
 <body>
 <?php require_once'header.php';?>
 
+
   <main>
     <div class="container">
       <div class="cato-keuze-temp">
         <div class="cato-temp-wrapper">
+          <br></br>
+            <?php 
+              echo "<h3>Vandaag is het ".date("Y-d-m</h3>");
+              
+            
+             ?>
+             
+             <?php
+                echo "<h3>de tijd is: " .date("H:i:s</h3>");
+              ?>
+               <br></br>
+              
+            
           <h3>gereedschappen / persona's / overige info pagina's</h3>
           <img src="" alt="">
           <p>beschrijving van de catogorie. hier vertel je iets over wat de keuze in houd om de gebruiker een beter beeld te geven over wat ze kunnen vinden binnen deze catogorie.</p>
