@@ -89,7 +89,9 @@ textarea {
 
 
 /*=================================algemeen===================================*/
-
+#home{
+  background: none;
+}
 .container{
   max-width: 900px;
   margin:0 auto;
@@ -132,7 +134,7 @@ textarea {
   }
   
   /* The dropdown container */
-  .dropdown ,.homebtn{
+  .dropdown ,.homebtn, .dropbtn-home{
     float: left;
     overflow: hidden;
   }

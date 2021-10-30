@@ -6,7 +6,6 @@
 
 <body>
 <?php require_once'../header.php';?>
-
   <main>
      <div class="cato-temp-wrapper">
         <h3>gereedschappen</h3>
@@ -60,6 +59,9 @@
 
   <!-- Google Analytics: change UA-XXXXX-Y to be your site's ID. -->
   <script>
+    //================ zelf toegevoegd =================  
+    function goBack() {  window.history.back();   }
+    // =================================================
     window.ga = function () { ga.q.push(arguments) }; ga.q = []; ga.l = +new Date;
     ga('create', 'UA-XXXXX-Y', 'auto'); ga('set', 'anonymizeIp', true); ga('set', 'transport', 'beacon'); ga('send', 'pageview')
   </script>
