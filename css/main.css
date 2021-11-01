@@ -194,6 +194,27 @@ main{
   background-color: #FFFFE0		;
 }
 
+.SongtextPluginbabyRed{
+  background-color: red;
+}
+
+.SongtextPluginbabyOrange{
+  background-color: orange;
+}
+
+.SongtextUprise{
+  background-color: green;
+  color: red;
+  
+}
+
+.SongtextKillerqueen{
+  background-color: blue;
+}
+
+
+
+
 .darthvaderPage{
   margin: 30px 30px;
   height: 760px;
