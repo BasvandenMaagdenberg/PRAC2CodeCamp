@@ -15,10 +15,6 @@
             <?php 
               echo "<h3>Vandaag is het ".date("Y-d-m</h3>");
               
-            
-             ?>
-             
-             <?php
                 echo "<h3>de tijd is: " .date("H:i:s</h3>");
               ?>
                <br></br>
