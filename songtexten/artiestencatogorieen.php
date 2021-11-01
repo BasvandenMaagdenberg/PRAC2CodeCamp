@@ -25,7 +25,7 @@
       </div>
       <div class="cato-keuze-temp">
         <div class="cato-temp-wrapper">
-          <h3>lorem ipsum</h3>
+          <h3>Queen</h3>
           <img src="" alt="">
           <p>beschrijving van de catogorie. hier vertel je iets over wat de keuze in houd om de gebruiker een beter beeld te geven over wat ze kunnen vinden binnen deze catogorie.</p>
 
