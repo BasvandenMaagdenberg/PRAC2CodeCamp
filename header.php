@@ -3,7 +3,7 @@
 <div class="navbar">
 	<a id="home"href="<?php echo $base_url;?>index.php"><img class="logo" src="<?php echo $base_url;?>img/codecamp.png" alt="logo van het bedrijf codecamp"></a>
 	<div class="homebtn">
-		<button class="dropbtn-home"><a href="<?php echo $base_url;?>index.php">home</a></button>
+		<button class="dropbtn-home"><a href="<?php echo $base_url;?>index.php">Home</a></button>
 	</div>
 	<div class="dropdown">
 			
