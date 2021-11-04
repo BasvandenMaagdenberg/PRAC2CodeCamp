@@ -104,7 +104,7 @@ textarea {
 
 
 .cato-temp-wrapper{
-  width: 40%;
+  width: 80%;
   border: 1px black solid;
 
 }
@@ -212,7 +212,22 @@ main{
   background-color: blue;
 }
 
+.return-btn{
+  background-color: #333;
+}
 
+.backbtn a{
+  text-decoration: none;
+  color: #333;
+  font-family: Arial, Helvetica, sans-serif;
+  
+}
+
+.backbtn{
+  background-color: white;
+  border-radius: 3px;
+}
+  
 
 
 .darthvaderPage{
@@ -253,6 +268,16 @@ main .InfoPaginaLukeSkywalker, main .InfoPaginaTimothyDalton{
   text-align: center;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+
+.container{
+  display: flex;
+  justify-content: center;
+
+
+
+}
+
+
 .container h3{
   color: grey;
   margin:0;
