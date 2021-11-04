@@ -11,13 +11,8 @@
     <div class="container">
       <div class="cato-keuze-temp">
         <div class="cato-temp-wrapper">
-          <br></br>
-            <?php 
-              echo "<h3>Vandaag is het ".date("Y-d-m</h3>");
-              
-                echo "<h3>de tijd is: " .date("H:i:s</h3>");
-              ?>
-               <br></br>
+        <script src="https://cdn.logwork.com/widget/text.js"></script> 
+            <a href="https://logwork.com/clock-widget/" class="clock-widget-text" data-timezone="Europe/Amsterdam" data-language="nl">Datum en Tijd</a>
               
             
           <h3>gereedschappen / persona's / overige info pagina's</h3>
