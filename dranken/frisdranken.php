@@ -32,7 +32,7 @@
         Coca-Cola stond op nummer 87 in de Fortune 500-lijst van 2018 van de grootste bedrijven in de Verenigde Staten op basis van totale inkomsten.
     </p>
 
-        
+    <a href="<?php echo $base_url;?>infopaginas/personages/jamesbond.php">Roger moore</a>
 
 <h1>7 Up</h1>
     <p>7 Up (gestileerd als 7up buiten de VS) is een Amerikaans merk van niet-cafeïnevrije frisdrank met citroen-limoensmaak. 
