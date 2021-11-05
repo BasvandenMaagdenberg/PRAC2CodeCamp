@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html encoding="utf-8" lang="nl">
-<?php require_once 'head.php'; ?>
+<?php require_once '../../head.php'; ?>
     <body>
         <header>
         <?php require_once '../../header.php';?>
@@ -65,7 +65,6 @@
                 </div>
             </div>
         </main>
-        <footer>
-        </footer>
+        <?php require_once '../../footer.php';?>
     </body>
 </html>
