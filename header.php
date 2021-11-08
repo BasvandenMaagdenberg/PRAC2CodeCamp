@@ -13,7 +13,7 @@
 			</button>
 			<div class="dropdown-content">
 				<a href="<?php echo $base_url;?>dranken/warm.php">Warmen Dranken</a>
-				<a href="<?php echo $base_url;?>dranken/frisdrank.php">Fris Dranken</a>
+				<a href="<?php echo $base_url;?>dranken/frisdranken.php">Fris Dranken</a>
 			</div>
 		</div>
 	</div>
