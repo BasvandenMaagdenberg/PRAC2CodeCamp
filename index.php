@@ -9,10 +9,12 @@
   <main>
     <div class="container">
       <div class="cato-keuze-temp">
-        <div class="cato-temp-wrapper">
+        <img src="" alt="">
+        <h3>Infopagina's</h3>
+        <!-- <div class="cato-temp-wrapper">
           <h3>gereedschappen / persona's / overige info pagina's</h3>
           <img src="" alt="">
-          <p>beschrijving van de catogorie. hier vertel je iets over wat de keuze in houd om de gebruiker een beter beeld te geven over wat ze kunnen vinden binnen deze catogorie.</p>
+          <p>beschrijving van de catogorie. hier vertel je iets over wat de keuze in houd om de gebruiker een beter beeld te geven over wat ze kunnen vinden binnen deze catogorie.</p> -->
 
           <button>
             <a href="<?php echo $base_url;?>infopaginas/catagorien.php">
@@ -21,8 +23,8 @@
               </h4>
             </a>
           </button>
-        </div>
-      </div>
+        <!-- </div>
+      </div> -->
       <div class="cato-keuze-temp">
         <div class="cato-temp-wrapper">
           <h3>dranken | warm / fris |</h3>
