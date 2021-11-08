@@ -102,6 +102,11 @@ textarea {
   border-radius: 3px;
 }
 
+
+.cato-temp-wrapper{
+  width: 80%;
+  border: 1px black solid;
+
 }
   /* stefano smit:
   datum:  saterday 18 okt 14:15;
@@ -184,17 +189,25 @@ textarea {
     margin-left: 245px;
   }
 
+/* categories pages */
+.cato-container{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  padding: 10px;  }
 
-/* categorien */
 .cato-keuze-temp{
-  width: 300px;
-  height: 500px;
+  background-color: rgba(255, 255, 255, 0.8);
+  padding: 5px;
+  text-align: center;
 }
 
+/* .cato-temp-wrapper{
+
+} */
 
 
 
-/* Info pagina darth vader */
+/* Info page darth vader */
 main{
   background-color: #FFFFE0		;
 }
