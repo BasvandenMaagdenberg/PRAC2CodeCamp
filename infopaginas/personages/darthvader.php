@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html encoding="utf-8" lang="nl">
-<?php require_once 'head.php'; ?>
+<?php require_once '../../head.php'; ?>
 		<body>
 						<header>    
 								<div class="navbar">
