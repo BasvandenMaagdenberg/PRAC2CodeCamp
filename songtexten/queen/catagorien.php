@@ -54,8 +54,9 @@
         </div>
       </div>
     </div>
-      </div>  
+  </div>  
   </main>
+  <?php require_once '../../footer.php';?>
   <!-- Add your site or application content here -->s
   <script src="js/vendor/modernizr-3.11.2.min.js"></script>
   <script src="js/plugins.js"></script>
