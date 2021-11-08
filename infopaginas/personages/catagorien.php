@@ -30,7 +30,7 @@
 					<p>beschrijving van de catogorie. hier vertel je iets over wat de keuze in houd om de gebruiker een beter beeld te geven over wat ze kunnen vinden binnen deze catogorie.</p>
 
 					<button>
-						<a href="songtexten/artiestencatogorieen.php">
+						<a href="georgeclooney.php">
 							<h4>
 								george clooney
 							</h4>
@@ -45,7 +45,7 @@
 					<p>beschrijving van de catogorie. hier vertel je iets over wat de keuze in houd om de gebruiker een beter beeld te geven over wat ze kunnen vinden binnen deze catogorie.</p>
 
 					<button>
-						<a href="songtexten/artiestencatogorieen.php">
+						<a href="jamesbond.php">
 							<h4>
 								james bond
 							</h4>
@@ -84,8 +84,9 @@
 				</div>
 			</div>
 		</div>
-			</div>  
+	</div>  
 	</main>
+	<?php require_once '../../footer.php';?>
 	<!-- Add your site or application content here -->s
 	<script src="js/vendor/modernizr-3.11.2.min.js"></script>
 	<script src="js/plugins.js"></script>

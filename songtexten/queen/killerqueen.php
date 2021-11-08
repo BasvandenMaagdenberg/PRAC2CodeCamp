@@ -14,7 +14,7 @@
                     <div class="InfoImg">
                         <img src="../../img/KillerQueen.jpg">
                     </div>
-                    <div class="SongtextKillerqueen">
+                    <div class="Songtext">
                      <p>
                         She keeps her Moet et Chandon<br>
                         In her pretty cabinet<br>

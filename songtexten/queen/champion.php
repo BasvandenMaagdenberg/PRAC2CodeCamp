@@ -14,7 +14,7 @@
                     <div class="InfoImg">
                         <img src="../../img/CHampionQueen.jpg">
                     </div>
-                    <div class="SongtextCHampionQueen">
+                    <div class="Songtext">
                      <p>
                         I've paid my dues<br>
                         Time after time<br>

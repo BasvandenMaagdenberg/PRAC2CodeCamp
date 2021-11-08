@@ -6,7 +6,6 @@
 
 <body>
 <?php require_once'../header.php';?>
-
   <main>
      <div class="cato-temp-wrapper">
         <h3>gereedschappen</h3>
@@ -44,9 +43,9 @@
         <p>beschrijving van de catogorie. hier vertel je iets over wat de keuze in houd om de gebruiker een beter beeld te geven over wat ze kunnen vinden binnen deze catogorie.</p>
 
         <button>
-          <a href="overig/catagorien.php">
+          <a href="overig/boeken.php">
             <h4>
-              boeken / linkjes naar externe websites \
+              boeken
             </h4>
           </a>
         </button>
@@ -60,6 +59,9 @@
 
   <!-- Google Analytics: change UA-XXXXX-Y to be your site's ID. -->
   <script>
+    //================ zelf toegevoegd =================  
+    function goBack() {  window.history.back();   }
+    // =================================================
     window.ga = function () { ga.q.push(arguments) }; ga.q = []; ga.l = +new Date;
     ga('create', 'UA-XXXXX-Y', 'auto'); ga('set', 'anonymizeIp', true); ga('set', 'transport', 'beacon'); ga('send', 'pageview')
   </script>

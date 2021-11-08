@@ -89,7 +89,9 @@ textarea {
 
 
 /*=================================algemeen===================================*/
-
+#home{
+  background: none;
+}
 .container{
   max-width: 900px;
   margin:0 auto;
@@ -102,7 +104,7 @@ textarea {
 
 
 .cato-temp-wrapper{
-  width: 40%;
+  width: 80%;
   border: 1px black solid;
 
 }
@@ -132,7 +134,7 @@ textarea {
   }
   
   /* The dropdown container */
-  .dropdown ,.homebtn{
+  .dropdown ,.homebtn, .dropbtn-home{
     float: left;
     overflow: hidden;
   }
@@ -192,6 +194,42 @@ main{
   background-color: #FFFFE0		;
 }
 
+.SongtextPluginbabyRed{
+  background-color: red;
+}
+
+.SongtextPluginbabyOrange{
+  background-color: orange;
+}
+
+.SongtextUprise{
+  background-color: green;
+  color: red;
+  
+}
+
+.SongtextKillerqueen{
+  background-color: blue;
+}
+
+.return-btn{
+  background-color: #333;
+}
+
+.backbtn a{
+  text-decoration: none;
+  color: #333;
+  font-family: Arial, Helvetica, sans-serif;
+  
+}
+
+.backbtn{
+  background-color: white;
+  border-radius: 3px;
+}
+  
+
+
 .darthvaderPage{
   margin: 30px 30px;
   height: 760px;
@@ -230,6 +268,16 @@ main .InfoPaginaLukeSkywalker, main .InfoPaginaTimothyDalton{
   text-align: center;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+
+.container{
+  display: flex;
+  justify-content: center;
+
+
+
+}
+
+
 .container h3{
   color: grey;
   margin:0;

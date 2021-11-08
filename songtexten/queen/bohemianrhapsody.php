@@ -14,7 +14,7 @@
                     <div class="InfoImg">
                         <img src="../../img/BohemainRhapsody.jpg">
                     </div>
-                    <div class="SongtextBohemianrhapsody">
+                    <div class="Songtext">
                      <p>
                         Is this the real life?<br>
                         Is this just fantasy?<br>
