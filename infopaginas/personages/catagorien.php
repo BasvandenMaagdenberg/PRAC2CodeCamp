@@ -4,87 +4,91 @@
 <?php require_once'../../head.php'; ?>
 
 <body>
-<?php require_once'../../header.php';?>
-
+	<?php require_once'../../header.php';?>
 	<main>
-			<div class="container"> 
+		<div class="container"> 
+			<div class="cato-container">
 				<div class="cato-keuze-temp">
 					<div class="cato-temp-wrapper">
-						<h3>darthvader</h3>
-							<img src="" alt="">
-							<p>beschrijving van de catogorie. hier vertel je iets over wat de keuze in houd om de gebruiker een beter beeld te geven over wat ze kunnen vinden binnen deze catogorie.</p>
+						<h3>Darth Vader</h3>
+						<img src="" alt="">
+						<p>Vind hier alle informatie over Darth Vader</p>
 
-							<button>
-								<a href="darthvader.php">
-									<h4>
-										darthvader
-									</h4>
-								</a>
-							</button>
+						<button>
+							<a href="darthvader.php">
+								<h4>
+									Darth Vader
+								</h4>
+							</a>
+						</button>
 					</div>
 				</div>
-			<div class="cato-keuze-temp">
-				<div class="cato-temp-wrapper">
-					<h3>george clooney</h3>
-					<img src="" alt="">
-					<p>beschrijving van de catogorie. hier vertel je iets over wat de keuze in houd om de gebruiker een beter beeld te geven over wat ze kunnen vinden binnen deze catogorie.</p>
+				<div class="cato-keuze-temp">
+					<div class="cato-temp-wrapper">
+						<h3>George Clooney</h3>
+						<img src="" alt="">
+						<p>Vind hier alle informatie over George clooney</p>
 
-					<button>
-						<a href="georgeclooney.php">
-							<h4>
-								george clooney
-							</h4>
-						</a>
-					</button>
+
+						<button>
+							<a href="georgeclooney.php">
+								<h4>
+									George Clooney
+								</h4>
+							</a>
+						</button>
+					</div>
 				</div>
-			</div>
-			<div class="cato-keuze-temp">
-				<div class="cato-temp-wrapper">
-					<h3>james bond</h3>
-					<img src="" alt="">
-					<p>beschrijving van de catogorie. hier vertel je iets over wat de keuze in houd om de gebruiker een beter beeld te geven over wat ze kunnen vinden binnen deze catogorie.</p>
+				<div class="cato-keuze-temp">
+					<div class="cato-temp-wrapper">
+						<h3>James Bond</h3>
+						<img src="" alt="">
+						<p>Vind hier alle informatie over James Bond</p>
 
-					<button>
-						<a href="jamesbond.php">
-							<h4>
-								james bond
-							</h4>
-						</a>
-					</button>
+
+						<button>
+							<a href="jamesbond.php">
+								<h4>
+									James Bond
+								</h4>
+							</a>
+						</button>
+					</div>
 				</div>
-			</div>
-			<div class="cato-keuze-temp">
-				<div class="cato-temp-wrapper">
-					<h3>luke skywalker</h3>
-					<img src="" alt="">
-					<p>beschrijving van de catogorie. hier vertel je iets over wat de keuze in houd om de gebruiker een beter beeld te geven over wat ze kunnen vinden binnen deze catogorie.</p>
+				<div class="cato-keuze-temp">
+					<div class="cato-temp-wrapper">
+						<h3>luke Skywalker</h3>
+						<img src="" alt="">
+						<p>Vind hier alle informatie over Luke Skywalker</p>
 
-					<button>
-						<a href="songtexten/artiestencatogorieen.php">
-							<h4>
-								luke skywalker
-							</h4>
-						</a>
-					</button>
+
+						<button>
+							<a href="songtexten/artiestencatogorieen.php">
+								<h4>
+									luke Skywalker
+								</h4>
+							</a>
+						</button>
+					</div>
 				</div>
-			</div>
-			<div class="cato-keuze-temp">
-				<div class="cato-temp-wrapper">
-					<h3>timothy dalton</h3>
-					<img src="" alt="">
-					<p>beschrijving van de catogorie. hier vertel je iets over wat de keuze in houd om de gebruiker een beter beeld te geven over wat ze kunnen vinden binnen deze catogorie.</p>
+				<div class="cato-keuze-temp">
+					<div class="cato-temp-wrapper">
+						<h3>Timothy Dalton</h3>
+						<img src="" alt="">
+						<p>Vind hier alle informatie over Timothy Dalton</p>
 
-					<button>
-						<a href="songtexten/artiestencatogorieen.php">
-							<h4>
-								timothy dalton
-							</h4>
-						</a>
-					</button>
+
+						<button>
+							<a href="songtexten/artiestencatogorieen.php">
+								<h4>
+									Timothy Dalton
+								</h4>
+							</a>
+						</button>
+					</div>
 				</div>
 			</div>
 		</div>
-	</div>  
 	</main>
 	<?php require_once '../../footer.php';?>
 	<!-- Add your site or application content here -->s
