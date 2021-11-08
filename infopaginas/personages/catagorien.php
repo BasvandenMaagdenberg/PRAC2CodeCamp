@@ -4,25 +4,24 @@
 <?php require_once'../../head.php'; ?>
 
 <body>
-<?php require_once'../../header.php';?>
-
+	<?php require_once'../../header.php';?>
 	<main>
-			<div class="container"> 
-				<div class="cato-keuze-temp">
-					<div class="cato-temp-wrapper">
-						<h3>darthvader</h3>
-							<img src="" alt="">
-							<p>beschrijving van de catogorie. hier vertel je iets over wat de keuze in houd om de gebruiker een beter beeld te geven over wat ze kunnen vinden binnen deze catogorie.</p>
+		<div class="container"> 
+			<div class="cato-keuze-temp">
+				<div class="cato-temp-wrapper">
+					<h3>darthvader</h3>
+					<img src="" alt="">
+					<p>beschrijving van de catogorie. hier vertel je iets over wat de keuze in houd om de gebruiker een beter beeld te geven over wat ze kunnen vinden binnen deze catogorie.</p>
 
-							<button>
-								<a href="darthvader.php">
-									<h4>
-										darthvader
-									</h4>
-								</a>
-							</button>
-					</div>
+					<button>
+						<a href="darthvader.php">
+							<h4>
+								darthvader
+							</h4>
+						</a>
+					</button>
 				</div>
+			</div>
 			<div class="cato-keuze-temp">
 				<div class="cato-temp-wrapper">
 					<h3>george clooney</h3>
@@ -84,7 +83,6 @@
 				</div>
 			</div>
 		</div>
-	</div>  
 	</main>
 	<?php require_once '../../footer.php';?>
 	<!-- Add your site or application content here -->s
