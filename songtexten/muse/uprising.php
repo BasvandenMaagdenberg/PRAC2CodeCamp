@@ -11,11 +11,10 @@
                 <div class="Songtext-container">
                     <h1>Uprising</h1>
                     <h3>Muse</h3>
-                    <div class="cover-img">
+                    <div class="InfoImg">
                         <img src="../../img/Uprising-Muse.jpg">
                     </div>
                     <div class="Songtext">
-                     <p>
                         <p>Paranoia is in bloom
                         The PR transmissions will resume
                         They'll try to push drugs that keep us all dumbed down
@@ -63,8 +62,6 @@
                         They will not control us
                         We will be victorious
                         (So come on)</p>
-                        
-                     </p>   
                     </div>
                     
                 </div>

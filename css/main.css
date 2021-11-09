@@ -89,6 +89,9 @@
 
 
 /*=================================algemeen===================================*/
+.map{
+  display: block; 
+}
 :root {
   color: inherit;
 }
@@ -97,16 +100,16 @@ header{
 }
 
 main{
-    
+  width: 100vw;
+  height: 97vh;
 }
-
 footer{
   padding-top:50px ;
 }
 .container{
   display: flex;
   justify-content: center;
-  width: 70%;
+  width: 80%;
   margin:0 auto;
 }
 
@@ -130,9 +133,19 @@ footer{
   margin-left: 10px;
   border-radius: 3px;
 }
+.cato-container{
+  display: flex;
+  justify-content: space-between;
+}
 .cato-temp-wrapper{
   width: 80%;
   border: 1px black solid;
+}
+.InfoImg img, .cover-img img{
+  margin: 20px 25px 25px 25px;
+  float: right;
+  max-width: 350px;
+  max-height: auto;
 }
 
 /*==================================== Navbar ================================= */
@@ -225,8 +238,10 @@ footer{
 .cato-container{
 
   display: grid;
+  grid-gap: 40px;
   grid-template-columns: repeat(5, 1fr) ;
-  padding: 10px;  
+  justify-content: center;
+  margin: 10px;  
 }
 .cato-keuze-temp a{
   text-decoration: none;
@@ -244,7 +259,7 @@ footer{
   margin: auto;
   text-align: center;
   font-family: arial;
-  height: 500px;
+  height: 400px;
 }
 
 .cato-keuze-temp button {
@@ -256,7 +271,7 @@ footer{
   text-align: center;
   cursor: pointer;
   width: 100%;
-  font-size: 18px;
+  font-size: 16px;
 }
 
 .cato-keuze-temp button:hover {
@@ -270,14 +285,17 @@ footer{
   background-color: red;
   font-size: 25px;
 }
-
+/*plug in baby orange*/
 .pib-orange{
   background-color: #b97d4b;
-  font-size: 25px;
+  font-size: 20px;
+}
+.pib-cover-img{
+  margin-left: 25px;
 }
 
 .Uprising{
-  background-color: green;
+  background-color: #b97d4b;
   color: red;
   
 }
@@ -319,12 +337,10 @@ main .InfoPaginaDarthVader{
 /* ===========================Songtext pages ====================== */
 .Songtext-container{
   width: 60%;
-  color: white;
-
+  color: black;
 }
-.Songtext{
+.Songtext, .InfoText{
   width: 50%;
-
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
@@ -334,13 +350,11 @@ main#madness{
 }
 
 /* ========================= All info pages ========================= */
-.InfoText {
+ { 
   font-size: 17px;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
-.InfoImg{
-  height: 30%;
-}
+
 /* ========================= All info pages ========================= */
 
 
@@ -350,15 +364,6 @@ main .InfoPaginaLukeSkywalker, main .InfoPaginaTimothyDalton{
   background-color: rgb(79, 165, 79);
 }
 
-/* font */
-
-/* images for every page */
-.InfoImg img, .cover-img img{
-  margin: 20px 25px 25px 25px;
-  float: right;
-  max-width: 350px;
-  max-height: auto;
-}
 /* ==========================================================================
    Helper classes
    ========================================================================== */

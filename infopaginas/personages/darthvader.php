@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+	<!DOCTYPE html>
 <html encoding="utf-8" lang="nl">
 <?php require_once '../../head.php'; ?>
 <body>

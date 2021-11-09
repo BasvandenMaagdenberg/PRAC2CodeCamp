@@ -11,13 +11,13 @@
             <div class="Songtext-container">
                 <h1>Plug in Baby</h1>
                 <h3>Muse</h3>
-                <div class="cover-img">
+                <div class="InfoImg">
                     <img src="../../img/MusePlugInBaby.jpg">
                 </div>
                 <div class="Songtext pib-orange">
                     <p>I've exposed your lies, baby
                     The underneath no big surprise
-                    Now it's time for changing
+                        Now it's time for changing
                     And cleansing everything
                     To forget your love</p>
 

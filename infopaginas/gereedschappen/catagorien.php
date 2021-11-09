@@ -7,7 +7,7 @@
     <?php require_once'../../header.php';?>
 
     <main>
-      <div class="container">
+      <div class="container cato-container">
          <div class="cato-keuze-temp">
           <h3>zagen</h3>
           <img src="" alt="">
@@ -34,7 +34,6 @@
               </h4>
             </a>
           </button>
-        </div>
       </div>
 
       <div class="cato-keuze-temp">

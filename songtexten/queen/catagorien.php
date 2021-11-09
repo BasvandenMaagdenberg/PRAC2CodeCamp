@@ -7,7 +7,7 @@
 <?php require_once'../../header.php';?>
 
   <main>
-      <div class="container"> 
+      <div class="container cato-container"> 
         <div class="cato-keuze-temp">
           
             <h3>bohemian rhapsody</h3>
@@ -21,7 +21,6 @@
                 </h4>
               </a>
             </button>
-          </div>
         </div>
         <div class="cato-keuze-temp">
           
@@ -36,7 +35,6 @@
                   </h4>
                 </a>
               </button>
-          </div>
         </div>
       <div class="cato-keuze-temp">
         
@@ -51,7 +49,6 @@
               </h4>
             </a>
           </button>
-        </div>
       </div>
     </div>
   </div>  
