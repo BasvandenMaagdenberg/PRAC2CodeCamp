@@ -7,7 +7,11 @@
 <body>
 <?php require_once'../header.php';?>
   <main>
-     <div class="cato-temp-wrapper">
+    <div class="container"> 
+     
+      <div class="cato-keuze-temp">
+
+
         <h3>gereedschappen</h3>
         <img src="" alt="">
         <p>beschrijving van de catogorie. hier vertel je iets over wat de keuze in houd om de gebruiker een beter beeld te geven over wat ze kunnen vinden binnen deze catogorie.</p>
@@ -22,7 +26,7 @@
       </div>
     </div>
     <div class="cato-keuze-temp">
-      <div class="cato-temp-wrapper">
+      
         <h3>persona's</h3>
         <img src="" alt="">
         <p>beschrijving van de catogorie. hier vertel je iets over wat de keuze in houd om de gebruiker een beter beeld te geven over wat ze kunnen vinden binnen deze catogorie.</p>
@@ -37,7 +41,7 @@
       </div>
     </div>
     <div class="cato-keuze-temp">
-      <div class="cato-temp-wrapper">
+      
         <h3>boeken / linkjes naar externe websites \</h3>
         <img src="" alt="">
         <p>beschrijving van de catogorie. hier vertel je iets over wat de keuze in houd om de gebruiker een beter beeld te geven over wat ze kunnen vinden binnen deze catogorie.</p>

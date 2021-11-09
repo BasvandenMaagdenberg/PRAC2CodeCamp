@@ -9,7 +9,7 @@
 	<main>
 		<div class="container">
 			<div class="cato-keuze-temp">
-				 <div class="cato-temp-wrapper">
+				 
 						<h3>dranken invoeren</h3>
 						<img src="" alt="">
 						<p>hier kan de persoon die recht tot deze pagina heeft boeken/songtexten/info pagina's toevoegen. hier onder vind u de verschillende forms om deze verschillende dingen toe te voegen</p>
@@ -24,7 +24,7 @@
 					</div>
 				</div>
 				<div class="cato-keuze-temp">
-					<div class="cato-temp-wrapper">
+					
 						<h3>boeken pagina's invoeren</h3>
 						<img src="" alt="">
 						<p>hier kan de persoon die recht tot deze pagina heeft boeken/songtexten/info pagina's toevoegen. hier onder vind u de verschillende forms om deze verschillende dingen toe te voegen</p>
@@ -39,7 +39,7 @@
 					</div>
 				</div>
 				<div class="cato-keuze-temp">
-					<div class="cato-temp-wrapper">
+					
 						<h3>songtexten invoeren</h3>
 						<img src="" alt="">
 						<p>hier kan de persoon die recht tot deze pagina heeft boeken/songtexten/info pagina's toevoegen. hier onder vind u de verschillende forms om deze verschillende dingen toe te voegen</p>

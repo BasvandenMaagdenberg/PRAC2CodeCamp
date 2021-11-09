@@ -6,7 +6,6 @@
              <?php require_once '../../../header.php';?>
         </header>
         <main>
-            <div class="InfoPaginaHandzaag">
                 <div class="container"> 
                     <div class="InfoPage">
                         <h1>Handzagen</h1>
@@ -32,11 +31,9 @@
                         De snoeizaag is een andere zaag die voor bomen wordt gebruikt, en dan voornamelijk voor het snoeien van moeilijk bereikbare takken. Deze heeft een klein, licht gebogen blad met tanden die bij het terugtrekken zagen.</li> <br>
                               
                         </div>
-                    </div>
                 </div>
             </div>
         </main>
-        <footer>
-        </footer>
+        <?php require_once '../../../footer.php';?>
     </body>
 </html>

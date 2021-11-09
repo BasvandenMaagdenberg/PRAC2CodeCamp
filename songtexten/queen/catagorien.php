@@ -9,7 +9,7 @@
   <main>
       <div class="container"> 
         <div class="cato-keuze-temp">
-          <div class="cato-temp-wrapper">
+          
             <h3>bohemian rhapsody</h3>
             <img src="" alt="">
             <p>beschrijving van de catogorie. hier vertel je iets over wat de keuze in houd om de gebruiker een beter beeld te geven over wat ze kunnen vinden binnen deze catogorie.</p>
@@ -24,7 +24,7 @@
           </div>
         </div>
         <div class="cato-keuze-temp">
-          <div class="cato-temp-wrapper">
+          
             <h3>We are the champion</h3>
               <img src="" alt="">
               <p>beschrijving van de catogorie. hier vertel je iets over wat de keuze in houd om de gebruiker een beter beeld te geven over wat ze kunnen vinden binnen deze catogorie.</p>
@@ -39,7 +39,7 @@
           </div>
         </div>
       <div class="cato-keuze-temp">
-        <div class="cato-temp-wrapper">
+        
           <h3>Killer Queen</h3>
           <img src="" alt="">
           <p>beschrijving van de catogorie. hier vertel je iets over wat de keuze in houd om de gebruiker een beter beeld te geven over wat ze kunnen vinden binnen deze catogorie.</p>

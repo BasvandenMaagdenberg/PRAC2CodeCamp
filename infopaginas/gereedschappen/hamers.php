@@ -6,8 +6,9 @@
             <?php require_once '../../header.php';?>
         </header>
         <main>
+            <div class="container"> 
             <div class="InfoPaginaHamers">
-                <div class="container"> 
+                
                     <div class="InfoPage">
                         <h1>Hamers</h1>
                         <div class="InfoImg">

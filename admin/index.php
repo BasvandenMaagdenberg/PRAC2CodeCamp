@@ -11,14 +11,14 @@
   </div>
 	<div class="container">
 		<div class="cato-keuze-temp">
-      <div class="cato-temp-wrapper">
+      
       	<h2>het overzicht pagina</h2>
       	<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque maiores eum earum, minima fuga, eveniet vitae, id, facere tenetur nostrum ratione culpa dignissimos tempore magnam! Hic saepe possimus quas facere.	</p>
       	<button><a href="<?php echo $base_url;?>admin/view.php">overzicht pagina</a></button>
       </div>
     </div>
     <div class="cato-keuze-temp">
-      <div class="cato-temp-wrapper">
+      
       	<h2>nieuw boeken/songtexten/infopagina's invoeren</h2>
       	<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque maiores eum earum, minima fuga, eveniet vitae, id, facere tenetur nostrum ratione culpa dignissimos tempore magnam! Hic saepe possimus quas facere.	</p>
       	<button><a href="invoer/invoercatagorie.php">invoer forms</a></button>

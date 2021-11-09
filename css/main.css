@@ -11,11 +11,11 @@
    Base styles: opinionated defaults
    ========================================================================== */
 
-html {
-  color: #222;
-  font-size: 1em;
-  line-height: 1.4;
-}
+   html {
+    color: #222;
+    font-size: 1em;
+    line-height: 1.4;
+  }
 
 /*
  * Remove text-shadow in selection highlight:
@@ -27,28 +27,28 @@ html {
  * Customize the background color to match your design.
  */
 
-::-moz-selection {
-  background: #b3d4fc;
-  text-shadow: none;
-}
+  ::-moz-selection {
+    background: #b3d4fc;
+    text-shadow: none;
+  }
 
-::selection {
-  background: #b3d4fc;
-  text-shadow: none;
-}
+  ::selection {
+    background: #b3d4fc;
+    text-shadow: none;
+  }
 
 /*
  * A better looking default horizontal rule
  */
 
-hr {
-  display: block;
-  height: 1px;
-  border: 0;
-  border-top: 1px solid #ccc;
-  margin: 1em 0;
-  padding: 0;
-}
+  hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 1em 0;
+    padding: 0;
+  }
 
 /*
  * Remove the gap between audio, canvas, iframes,
@@ -56,32 +56,32 @@ hr {
  * https://github.com/h5bp/html5-boilerplate/issues/440
  */
 
-audio,
-canvas,
-iframe,
-img,
-svg,
-video {
-  vertical-align: middle;
-}
+  audio,
+  canvas,
+  iframe,
+  img,
+  svg,
+  video {
+    vertical-align: middle;
+  }
 
 /*
  * Remove default fieldset styles.
  */
 
-fieldset {
-  border: 0;
-  margin: 0;
-  padding: 0;
-}
+  fieldset {
+    border: 0;
+    margin: 0;
+    padding: 0;
+  }
 
 /*
  * Allow only vertical resizing of textareas.
  */
 
-textarea {
-  resize: vertical;
-}
+  textarea {
+    resize: vertical;
+  }
 
 /* ==========================================================================
    Author's custom styles
@@ -89,138 +89,194 @@ textarea {
 
 
 /*=================================algemeen===================================*/
-#home{
-  background: none;
+:root {
+  color: inherit;
+}
+header{
+  justify-content: center;
+}
+
+main{
+    
+}
+
+footer{
+  padding-top:50px ;
 }
 .container{
-  max-width: 900px;
+  display: flex;
+  justify-content: center;
+  width: 70%;
   margin:0 auto;
 }
+
+.container h1{
+  margin:0;
+  font-size: 50px;
+  text-align: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.container h3{
+  color: grey;
+  margin:0;
+  font-size: 25px;
+  text-align: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
 .navbar img{
   height: 50px;
   margin-left: 10px;
   border-radius: 3px;
 }
-
-
 .cato-temp-wrapper{
   width: 80%;
   border: 1px black solid;
-
 }
-  /* stefano smit:
-  datum:  saterday 18 okt 14:15;
-  functionality: dropdown menu;
-  description: under this commant we will find styling for the navagation bar on the top of the website. this code provides us the ability to have a drop down menu with catagories of diverent information pages.;
-  */ 
-  /* Navbar container */
-  .navbar {
-    overflow: hidden;
-    background-color: #333;
-    font-family: Arial;
-    display: flex;
-    justify-content: flex-start;
-    align-items: center;
-  }
-  
-  /* Links inside the navbar */
-  .navbar a {
-    float: left;
-    font-size: 16px;
-    color: white;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-  }
-  
-  /* The dropdown container */
-  .dropdown ,.homebtn, .dropbtn-home{
-    float: left;
-    overflow: hidden;
-  }
-  
-  /* Dropdown button */
-  .dropdown .dropbtn, .dropbtn-home{
-    font-size: 16px;
-    border: none;
-    outline: none;
-    color: white;
-    padding: 18px 16px;
-    background-color: inherit;
-    font-family: inherit; /* Important for vertical align on mobile phones */
-    margin: 0; /* Important for vertical align on mobile phones */
-  }
-  
-  /* Add a red background color to navbar links on hover */
-  .navbar a:hover, .dropdown:hover .dropbtn, .dropbtn-home:hover .dropbtn-home{
-    background-color: red;
-  }
-  
-  /* Dropdown content (hidden by default) */
-  .dropdown-content {
-    display: none;
-    position: absolute;
-    background-color: #f9f9f9;
-    min-width: 160px;
-    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-    z-index: 1;
-  }
-  
-  /* Links inside the dropdown */
-  .dropdown-content a {
-    float: none;
-    color: black;
-    padding: 12px 16px;
-    text-decoration: none;
-    display: block;
-    text-align: left;
-  }
-  
-  /* Add a grey background color to dropdown links on hover */
-  .dropdown-content a:hover {
-    background-color: #ddd;
-  }
-  
-  /* Show the dropdown menu on hover */
-  .dropdown:hover .dropdown-content {
-    display: block;
-  } 
-  .inlist{
-    margin-left: 245px;
-  }
 
-/* categories pages */
-.cato-container{
+/*==================================== Navbar ================================= */
+
+.navbar {
+  height: 100px;
+  overflow: hidden;
+  background-color: #333;
+  font-family: Arial;
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
-  padding: 10px;  }
+  grid-template-columns: repeat(3, 1fr);
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
 
-.cato-keuze-temp{
-  background-color: rgba(255, 255, 255, 0.8);
-  padding: 5px;
+.logo{
+  padding:  5px;
+  background: white;
+}
+/* Links inside the navbar */
+.dropdown a {
+  float: left;
+  font-size: 16px;
+  color: white;
   text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
 }
 
-/* .cato-temp-wrapper{
-
-} */
-
-
-
-/* Info page darth vader */
-main{
-  background-color: #FFFFE0		;
+/* The dropdown container */
+.dropdown ,.homebtn, .dropbtn-home{
+  float: left;
+  overflow: hidden;
 }
 
-.SongtextPluginbabyRed{
+/* Dropdown button */
+.dropdown .dropbtn, .dropbtn-home{
+  font-size: 16px;
+  border: none;
+  outline: none;
+  color: white;
+  padding: 18px 16px;
+  background-color: inherit;
+  font-family: inherit; /* Important for vertical align on mobile phones */
+  margin: 0; /* Important for vertical align on mobile phones */
+}
+
+/* Add a red background color to navbar links on hover */
+.navbar a:hover, .dropdown:hover .dropbtn, .dropbtn-home:hover .dropbtn-home{
   background-color: red;
 }
 
-.SongtextPluginbabyOrange{
-  background-color: orange;
+/* Dropdown content (hidden by default) */
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
 }
 
-.SongtextUprise{
+/* Links inside the dropdown */
+.dropdown-content a {
+  float: none;
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+/* Add a grey background color to dropdown links on hover */
+.dropdown-content a:hover {
+  background-color: #ddd;
+}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {
+  display: block;
+} 
+.inlist{
+  margin-left: 245px;
+}
+/*===============================END Navbar ================================= */
+
+
+/* ============================== categories pages =============================*/
+.cato-container{
+
+  display: grid;
+  grid-template-columns: repeat(5, 1fr) ;
+  padding: 10px;  
+}
+.cato-keuze-temp a{
+  text-decoration: none;
+  color: black;
+}
+.cato-keuze-temp{
+  display: flex;  
+  flex-flow: column;
+  justify-content: space-between;  
+  background-color: rgba(255, 255, 255, 0.8);
+  padding: 5px;
+  text-align: center;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 300px;
+  margin: auto;
+  text-align: center;
+  font-family: arial;
+  height: 500px;
+}
+
+.cato-keuze-temp button {
+  border: none;
+  outline: 0;
+  padding: 12px;
+  color: white;
+  background-color: lightgray;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 18px;
+}
+
+.cato-keuze-temp button:hover {
+  opacity: 0.7;
+}
+/* ==============================END categories pages =============================*/
+
+/* songtexten pages */
+
+.pib-rood  {
+  background-color: red;
+  font-size: 25px;
+}
+
+.pib-orange{
+  background-color: #b97d4b;
+  font-size: 25px;
+}
+
+.Uprising{
   background-color: green;
   color: red;
   
@@ -245,34 +301,49 @@ main{
   background-color: white;
   border-radius: 3px;
 }
-  
 
+.cirkelzaag-img{
+  height: 40%;
+}
+
+/* ===========================darkvader page ====================== */
 
 .darthvaderPage{
   margin: 30px 30px;
   height: 760px;
 }
-
-/* Songtext pages */
-.Songtext{
-  font-size: 19px;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-}
-
-
-/* All info pages */
-.InfoText {
-  font-size: 19px;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-}
-.InfoPage{
-  padding-top: 20px;
-}
-
-/* Info page darth vader */
 main .InfoPaginaDarthVader{
-  background-color: #FFFF66	;
+  background-color: #FFFF66 ;
 }
+
+/* ===========================Songtext pages ====================== */
+.Songtext-container{
+  width: 60%;
+  color: white;
+
+}
+.Songtext{
+  width: 50%;
+
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+main#madness{
+  background: #cc0000;
+  font-size: 17px;
+}
+
+/* ========================= All info pages ========================= */
+.InfoText {
+  font-size: 17px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.InfoImg{
+  height: 30%;
+}
+/* ========================= All info pages ========================= */
+
+
 
 /* Info pages luke skywalker and Timothy Dalton*/
 main .InfoPaginaLukeSkywalker, main .InfoPaginaTimothyDalton{
@@ -280,32 +351,9 @@ main .InfoPaginaLukeSkywalker, main .InfoPaginaTimothyDalton{
 }
 
 /* font */
-.container h1{
-  margin:0;
-  font-size: 50px;
-  text-align: center;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-}
-
-.container{
-  display: flex;
-  justify-content: center;
-
-
-
-}
-
-
-.container h3{
-  color: grey;
-  margin:0;
-  font-size: 25px;
-  text-align: center;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-}
 
 /* images for every page */
-.InfoImg img{
+.InfoImg img, .cover-img img{
   margin: 20px 25px 25px 25px;
   float: right;
   max-width: 350px;
@@ -319,10 +367,10 @@ main .InfoPaginaLukeSkywalker, main .InfoPaginaTimothyDalton{
  * Hide visually and from screen readers
  */
 
-.hidden,
-[hidden] {
-  display: none !important;
-}
+   .hidden,
+   [hidden] {
+    display: none !important;
+  }
 
 /*
  * Hide only visually, but have it available for screen readers:
@@ -333,18 +381,18 @@ main .InfoPaginaLukeSkywalker, main .InfoPaginaTimothyDalton{
  *    https://medium.com/@jessebeach/beware-smushed-off-screen-accessible-text-5952a4c2cbfe
  */
 
-.sr-only {
-  border: 0;
-  clip: rect(0, 0, 0, 0);
-  height: 1px;
-  margin: -1px;
-  overflow: hidden;
-  padding: 0;
-  position: absolute;
-  white-space: nowrap;
-  width: 1px;
-  /* 1 */
-}
+  .sr-only {
+    border: 0;
+    clip: rect(0, 0, 0, 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    white-space: nowrap;
+    width: 1px;
+    /* 1 */
+  }
 
 /*
  * Extends the .sr-only class to allow the element
@@ -352,24 +400,24 @@ main .InfoPaginaLukeSkywalker, main .InfoPaginaTimothyDalton{
  * https://www.drupal.org/node/897638
  */
 
-.sr-only.focusable:active,
-.sr-only.focusable:focus {
-  clip: auto;
-  height: auto;
-  margin: 0;
-  overflow: visible;
-  position: static;
-  white-space: inherit;
-  width: auto;
-}
+  .sr-only.focusable:active,
+  .sr-only.focusable:focus {
+    clip: auto;
+    height: auto;
+    margin: 0;
+    overflow: visible;
+    position: static;
+    white-space: inherit;
+    width: auto;
+  }
 
 /*
  * Hide visually and from screen readers, but maintain layout
  */
 
-.invisible {
-  visibility: hidden;
-}
+  .invisible {
+    visibility: hidden;
+  }
 
 /*
  * Clearfix: contain floats
@@ -383,15 +431,15 @@ main .InfoPaginaLukeSkywalker, main .InfoPaginaTimothyDalton{
  *    `:before` to contain the top-margins of child elements.
  */
 
-.clearfix::before,
-.clearfix::after {
-  content: " ";
-  display: table;
-}
+  .clearfix::before,
+  .clearfix::after {
+    content: " ";
+    display: table;
+  }
 
-.clearfix::after {
-  clear: both;
-}
+  .clearfix::after {
+    clear: both;
+  }
 
 /* ==========================================================================
    EXAMPLE Media Queries for Responsive Design.
@@ -399,16 +447,16 @@ main .InfoPaginaLukeSkywalker, main .InfoPaginaTimothyDalton{
    Modify as content requires.
    ========================================================================== */
 
-@media only screen and (min-width: 35em) {
-  /* Style adjustments for viewports that meet the condition */
-}
+   @media only screen and (min-width: 35em) {
+    /* Style adjustments for viewports that meet the condition */
+  }
 
-@media print,
+  @media print,
   (-webkit-min-device-pixel-ratio: 1.25),
   (min-resolution: 1.25dppx),
   (min-resolution: 120dpi) {
-  /* Style adjustments for high resolution devices */
-}
+    /* Style adjustments for high resolution devices */
+  }
 
 /* ==========================================================================
    Print styles.
@@ -416,72 +464,72 @@ main .InfoPaginaLukeSkywalker, main .InfoPaginaTimothyDalton{
    https://www.phpied.com/delay-loading-your-print-css/
    ========================================================================== */
 
-@media print {
-  *,
-  *::before,
-  *::after {
-    background: #fff !important;
-    color: #000 !important;
-    /* Black prints faster */
-    box-shadow: none !important;
-    text-shadow: none !important;
-  }
+   @media print {
+    *,
+    *::before,
+    *::after {
+      background: #fff !important;
+      color: #000 !important;
+      /* Black prints faster */
+      box-shadow: none !important;
+      text-shadow: none !important;
+    }
 
-  a,
-  a:visited {
-    text-decoration: underline;
-  }
+    a,
+    a:visited {
+      text-decoration: underline;
+    }
 
-  a[href]::after {
-    content: " (" attr(href) ")";
-  }
+    a[href]::after {
+      content: " (" attr(href) ")";
+      }
 
-  abbr[title]::after {
-    content: " (" attr(title) ")";
-  }
+      abbr[title]::after {
+        content: " (" attr(title) ")";
+        }
 
   /*
    * Don't show links that are fragment identifiers,
    * or use the `javascript:` pseudo protocol
    */
-  a[href^="#"]::after,
-  a[href^="javascript:"]::after {
-    content: "";
-  }
+        a[href^="#"]::after,
+        a[href^="javascript:"]::after {
+          content: "";
+        }
 
-  pre {
-    white-space: pre-wrap !important;
-  }
+        pre {
+          white-space: pre-wrap !important;
+        }
 
-  pre,
-  blockquote {
-    border: 1px solid #999;
-    page-break-inside: avoid;
-  }
+        pre,
+        blockquote {
+          border: 1px solid #999;
+          page-break-inside: avoid;
+        }
 
   /*
    * Printing Tables:
    * https://web.archive.org/web/20180815150934/http://css-discuss.incutio.com/wiki/Printing_Tables
    */
-  thead {
-    display: table-header-group;
-  }
+        thead {
+          display: table-header-group;
+        }
 
-  tr,
-  img {
-    page-break-inside: avoid;
-  }
+        tr,
+        img {
+          page-break-inside: avoid;
+        }
 
-  p,
-  h2,
-  h3 {
-    orphans: 3;
-    widows: 3;
-  }
+        p,
+        h2,
+        h3 {
+          orphans: 3;
+          widows: 3;
+        }
 
-  h2,
-  h3 {
-    page-break-after: avoid;
-  }
-}
+        h2,
+        h3 {
+          page-break-after: avoid;
+        }
+      }
 

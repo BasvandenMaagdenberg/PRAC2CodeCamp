@@ -1,13 +1,10 @@
-;<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <?php require_once'../head.php';?>
-</head>
+<!DOCTYPE html>
+<html lang="nl">
+<?php require_once'../head.php';?>
 <body>
-    <header>
-        <?php require_once'../header.php';?>
-    </header>
+<header>
+    <?php require_once'../header.php';?>
+</header>
     <main>
 
         <h1>Frisdranken</h1>
@@ -42,8 +39,8 @@
                 Gebaseerd op Interbrand's "best global brand"-onderzoek van 2020, was Coca-Cola 's werelds zesde meest waardevolle merk.
                 In 2013 werden colaproducten verkocht in meer dan 200 landen over de hele wereld, waarbij consumenten dagelijks meer dan 1,8 miljard bedrijfsdranken dronken. 
                 Coca-Cola stond op nummer 87 in de Fortune 500-lijst van 2018 van de grootste bedrijven in de Verenigde Staten op basis van totale 
-                <br> <a href="<?php echo $base_url;?>infopaginas/personages/jamesbond.php">Roger moore</a>
-            </li><br>
+                 <a href="<?php echo $base_url;?>infopaginas/personages/jamesbond.php">Roger moore</a>
+            </li>
 
             <li>   
                 <b>7 Up</b>
@@ -64,7 +61,7 @@
                 Fanta domineerde al snel de Duitse markt met drie miljoen verkochte blikjes in 1943. De huidige formulering van Fanta werd in 1955 in Italië ontwikkeld.
             </li>
         </main>
+        <?php require_once'../footer.php';?>
     </body>
-    <footer>
-    </footer>
+
     </html>

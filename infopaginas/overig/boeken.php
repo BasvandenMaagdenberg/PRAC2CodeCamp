@@ -6,7 +6,6 @@
             <?php require_once '../../header.php';?>
         </header>
         <main>
-            <div class="InfoPaginaBoeken">
                 <div class="container"> 
                     <div class="InfoPage">
                         <h1>Boeken</h1>
@@ -43,7 +42,6 @@
                 </div>
             </div>
         </main>
-        <footer>
-        </footer>
+        <?php require_once'../../footer.php';?>
     </body>
 </html>

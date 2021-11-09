@@ -9,7 +9,7 @@
 		<div class="container"> 
 			<div class="cato-container">
 				<div class="cato-keuze-temp">
-					<div class="cato-temp-wrapper">
+					
 						<h3>Darth Vader</h3>
 						<img src="" alt="">
 						<p>Vind hier alle informatie over Darth Vader</p>
@@ -24,7 +24,7 @@
 					</div>
 				</div>
 				<div class="cato-keuze-temp">
-					<div class="cato-temp-wrapper">
+					
 						<h3>George Clooney</h3>
 						<img src="" alt="">
 						<p>Vind hier alle informatie over George clooney</p>
@@ -40,7 +40,7 @@
 					</div>
 				</div>
 				<div class="cato-keuze-temp">
-					<div class="cato-temp-wrapper">
+					
 						<h3>James Bond</h3>
 						<img src="" alt="">
 						<p>Vind hier alle informatie over James Bond</p>
@@ -56,14 +56,14 @@
 					</div>
 				</div>
 				<div class="cato-keuze-temp">
-					<div class="cato-temp-wrapper">
+					
 						<h3>luke Skywalker</h3>
 						<img src="" alt="">
 						<p>Vind hier alle informatie over Luke Skywalker</p>
 
 
 						<button>
-							<a href="songtexten/artiestencatogorieen.php">
+							<a href="lukeskywalker.php">
 								<h4>
 									luke Skywalker
 								</h4>
@@ -72,14 +72,14 @@
 					</div>
 				</div>
 				<div class="cato-keuze-temp">
-					<div class="cato-temp-wrapper">
+					
 						<h3>Timothy Dalton</h3>
 						<img src="" alt="">
 						<p>Vind hier alle informatie over Timothy Dalton</p>
 
 
 						<button>
-							<a href="songtexten/artiestencatogorieen.php">
+							<a href="timothydalton.php">
 								<h4>
 									Timothy Dalton
 								</h4>
