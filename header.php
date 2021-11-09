@@ -39,6 +39,7 @@
 				<div class="dropdown-content">
 					<a href="<?php echo $base_url;?>songtexten/muse/catagorien.php">Muse</a>
 					<a href="<?php echo $base_url;?>songtexten/queen/catagorien.php">Queen</a>
+					<a href="<?php echo $base_url;?>songtexten/mybaby/catagorien.php">MyBaby</a>
 				</div>
 			</div>
 		</div>
