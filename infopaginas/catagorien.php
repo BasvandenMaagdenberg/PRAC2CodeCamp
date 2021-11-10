@@ -25,14 +25,14 @@
 
       <div class="cato-keuze-temp">
 
-        <h3>persona's</h3>
+        <h3>personages</h3>
         <img src="" alt="">
         <p>beschrijving van de catogorie. hier vertel je iets over wat de keuze in houd om de gebruiker een beter beeld te geven over wat ze kunnen vinden binnen deze catogorie.</p>
 
         <button>
           <a href="personages/catagorien.php">
             <h4>
-              persona's
+              personages
             </h4>
           </a>
         </button>
