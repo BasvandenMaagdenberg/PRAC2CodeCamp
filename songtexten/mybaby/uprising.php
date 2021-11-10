@@ -10,7 +10,7 @@
         <div class="container">
             <div class="Songtext-container">
                 <h1>Uprising</h1>
-                <h3>MYBABY</h3>
+                <h3>MY BABY</h3>
                 <div class="InfoImg">
                     <img src="../../img/UprisingMybaby.jpg">
                 </div>
