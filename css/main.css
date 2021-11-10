@@ -104,14 +104,29 @@ main{
   height: 97vh;
 }
 footer{
-  padding-top:50px ;
+  padding-top:20px;
+  padding-bottom: 20px;
+  background-color:#333;
+  color: whitesmoke;
+  justify-content: space-evenly;
+  display: flex;
+  flex-direction: row-reverse;
+  align-items: center;
 }
-.test-container{
+
+
+
+li {
+  text-decoration: none;
+}
+
+.personage-container{
   width: 80%;
   display: flex;
   justify-content: center;
   margin:0 auto;
 }
+
 .container{
   display: flex;
   justify-content: center;
