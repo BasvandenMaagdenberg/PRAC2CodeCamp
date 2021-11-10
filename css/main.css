@@ -122,7 +122,7 @@ footer{
 
 .container h3{
   color: grey;
-  margin:0;
+  margin-bottom:10px;
   font-size: 25px;
   text-align: center;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -282,12 +282,12 @@ footer{
 /* songtexten pages */
 
 .pib-rood  {
-  background-color: red;
+  background-color: #cc0000;
   font-size: 25px;
 }
 /*plug in baby orange*/
 .pib-orange{
-  background-color: #b97d4b;
+  background-color: #B97D4B;
   font-size: 20px;
 }
 .pib-cover-img{
@@ -295,8 +295,8 @@ footer{
 }
 
 .Uprising{
-  background-color: #b97d4b;
-  color: red;
+  background-color: #B97D4B;
+  color: #cc0000;
   
 }
 
@@ -336,8 +336,12 @@ main .InfoPaginaDarthVader{
 
 /* ===========================Songtext pages ====================== */
 .Songtext-container{
-  width: 60%;
+  width: 90%;
   color: black;
+}
+.Songtext p{
+  width: 50%;
+  margin:0px 0px 20px 0px;
 }
 .Songtext, .InfoText{
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -360,7 +364,7 @@ main#madness{
 
 /* Info pages luke skywalker and Timothy Dalton*/
 main .InfoPaginaLukeSkywalker, main .InfoPaginaTimothyDalton{
-  background-color: rgb(79, 165, 79);
+  background-color: #317F43;
 }
 
 /* ==========================================================================
