@@ -7,8 +7,7 @@
   <body>
     <?php require_once'../header.php';?>
     <main>
-      <div class="container cato-container"> 
-        
+      <div class="container"> 
         <div class="cato-keuze-temp">
           <h3>gereedschappen</h3>
           <img src="" alt="">
@@ -40,7 +39,7 @@
 
     <div class="cato-keuze-temp">
 
-      <h3>boeken / linkjes naar externe websites \</h3>
+      <h3>boeken</h3>
       <img src="" alt="">
       <p>beschrijving van de catogorie. hier vertel je iets over wat de keuze in houd om de gebruiker een beter beeld te geven over wat ze kunnen vinden binnen deze catogorie.</p>
 
@@ -51,6 +50,7 @@
           </h4>
         </a>
       </button>
+      </div>
     </div>
   </div>
 </main>

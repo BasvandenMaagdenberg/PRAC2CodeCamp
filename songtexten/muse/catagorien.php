@@ -7,7 +7,7 @@
 <?php require_once'../../header.php';?>
 
   <main>
-      <div class="container cato-container"> 
+      <div class="container "> 
         <div class="cato-keuze-temp">
           
             <h3>madness</h3>

@@ -4,7 +4,7 @@
     <body>
     <?php require_once'../../../header.php';?>
       <main>
-        <div class="container cato-container">
+        <div class="container">
          <div class="cato-keuze-temp">
           <h3>cirkelzagen</h3>
           <img src="" alt="">
@@ -17,7 +17,6 @@
             </a>
           </button>
         </div>
-      </div>
       <div class="cato-keuze-temp">
         <h3>handzaag</h3>
         <img src="" alt="">
