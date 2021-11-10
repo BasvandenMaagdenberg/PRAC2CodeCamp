@@ -16,60 +16,53 @@
                         <img src="../../img/CHampionQueen.jpg">
                     </div>
                     <div class="Songtext">
-                     <p>
-                        I've paid my dues<br>
-                        Time after time<br>
-                        I've done my sentence<br>
-                        But committed no crime<br>
-                        And bad mistakes<br>
-                        I've made a few<br>
-                        I've had my share of sand<br>
-                        Kicked in my face<br>
-                        But I've come through<br>
-                        <br>
+                        
+                        <p>I've paid my dues
+                        Time after time
+                        I've done my sentence
+                        But committed no crime
+                        And bad mistakes
+                        I've made a few
+                        I've had my share of sand
+                        Kicked in my face
+                        But I've come through</p>
 
-                        And we mean to go on and on and on and on<br>
+                        <p>And we mean to go on and on and on and on</p>
 
-                        We are the champions, my friends<br>
-                        And we'll keep on fighting till the end<br>
-                        We are the champions<br>
-                        We are the champions<br>
-                        No time for losers<br>
-                        'Cause we are the champions of the World<br>
-                        <br>
+                        <p>We are the champions, my friends
+                        And we'll keep on fighting till the end
+                        We are the champions
+                        We are the champions
+                        No time for losers
+                        'Cause we are the champions of the World</p>
+                        
+                        <p>I've taken my bows
+                        And my curtain calls
+                        You brought me fame and fortune
+                        And everything that goes with it
+                        I thank you all
+                        But it's been no bed of roses
+                        No pleasure cruise
+                        I consider it a challenge before
+                        The human race
+                        And I ain't gonna lose</p>
+                        
+                         <p>And we mean to go on and on and on and on</p>
+                        
 
-                        I've taken my bows<br>
-                        And my curtain calls<br>
-                        You brought me fame and fortune<br>
-                        And everything that goes with it<br>
-                        I thank you all<br>
-                        But it's been no bed of roses<br>
-                        No pleasure cruise<br>
-                        I consider it a challenge before<br>
-                        The human race<br>
-                        And I ain't gonna lose<br>
-                        <br>
+                        <p>We are the champions, my friends
+                        And we'll keep on fighting till the end
+                        We are the champions
+                        We are the champions
+                        No time for losers
+                        'Cause we are the champions of the World</p>
 
-                        And we mean to go on and on and on and on<br>
-                        <br>
-
-
-                        We are the champions, my friends<br>
-                        And we'll keep on fighting till the end<br>
-                        We are the champions<br>
-                        We are the champions<br>
-                        No time for losers<br>
-                        'Cause we are the champions of the World<br>
-                        <br>
-
-                        We are the champions, my friends<br>
-                        And we'll keep on fighting till the end<br>
-                        We are the champions<br>
-                        We are the champions<br>
-                        No time for losers<br>
-                        'Cause we are the champions of the World<br>
-                        <br>
-                     </p>   
+                        <p>We are the champions, my friends
+                        And we'll keep on fighting till the end
+                        We are the champions
+                        We are the champions
+                        No time for losers
+                        'Cause we are the champions of the World</p>   
                     </div>
                     
                 </div>
