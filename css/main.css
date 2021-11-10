@@ -251,12 +251,10 @@ li {
 
 /* ============================== categories pages =============================*/
 .cato-container{
-
-  display: grid;
-  grid-gap: 40px;
-  grid-template-columns: repeat(5, 1fr) ;
+/* 
+  display: flex;
   justify-content: center;
-  margin: 10px;  
+  align-items: center; */
 }
 .cato-keuze-temp a{
   text-decoration: none;
@@ -267,11 +265,12 @@ li {
   flex-flow: column;
   justify-content: space-between;  
   background-color: rgba(255, 255, 255, 0.8);
-  padding: 5px;
+  padding: 8px;
   text-align: center;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-  max-width: 300px;
-  margin: auto;
+  width: 200px;
+  margin-right: 40px;
+  margin-top: 100px;
   text-align: center;
   font-family: arial;
   height: 400px;
@@ -287,8 +286,11 @@ li {
   cursor: pointer;
   width: 100%;
   font-size: 16px;
+  height: 100px;
 }
-
+.cato-keuze-temp h3{
+padding-top: 10px;
+}
 .cato-keuze-temp button:hover {
   opacity: 0.7;
 }
@@ -360,6 +362,7 @@ main .InfoPaginaDarthVader{
 }
 .Songtext, .InfoText{
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1.1em;
 }
 
 main#madness{
@@ -368,7 +371,7 @@ main#madness{
 }
 
 /* ========================= All info pages ========================= */
- { 
+ .InfoText{ 
   font-size: 17px;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }

@@ -10,7 +10,6 @@
   <main>
     <div class="container">
       <div class="cato-keuze-temp">
-        
           <img src="" alt="">
           <h3>Infopagina's</h3>
             <img src="" alt="">
