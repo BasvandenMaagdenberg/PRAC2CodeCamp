@@ -104,8 +104,23 @@ main{
   height: 97vh;
 }
 footer{
-  padding-top:50px ;
+  padding-top:20px;
+  padding-bottom: 20px;
+  background-color:#333;
+  color: whitesmoke;
+  justify-content: space-evenly;
+  display: flex;
+  flex-direction: row-reverse;
+  align-items: center;
 }
+
+
+
+li {
+  text-decoration: none;
+}
+
+
 .container{
   display: flex;
   justify-content: center;
