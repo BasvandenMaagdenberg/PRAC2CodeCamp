@@ -6,7 +6,7 @@
 	<body>
 		<?php require_once'../../header.php';?>
 		<main>
-			<div class="container "> 
+			<div class="personage-container"> 
 				<div class="cato-keuze-temp">
 					
 					<h3>Darth Vader</h3>
