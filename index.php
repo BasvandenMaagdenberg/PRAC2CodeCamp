@@ -8,6 +8,8 @@
 
 
   <main>
+  <script src="https://cdn.logwork.com/widget/text.js"></script> 
+            <a href="https://logwork.com/clock-widget/" class="clock-widget-text" data-timezone="Europe/Amsterdam" data-language="nl">Datum en Tijd</a>
     <div class="container">
       <div class="cato-keuze-temp">
           <img src="" alt="">

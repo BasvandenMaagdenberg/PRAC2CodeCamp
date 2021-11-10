@@ -27,7 +27,7 @@
 				</button>
 				<div class="dropdown-content">
 					<a href="<?php echo $base_url;?>infopaginas/catagorien.php">Gereedschappen</a>
-					<a href="<?php echo $base_url;?>infopaginas/personages/catagorien.php">Persona's</a>
+					<a href="<?php echo $base_url;?>infopaginas/personages/catagorien.php">Personages</a>
 					<!-- <a href="<?php echo $base_url;?>overig/catagorien.php">boeken / externe verwijzingen</a> <--></-->
 				</div>
 			</div>
