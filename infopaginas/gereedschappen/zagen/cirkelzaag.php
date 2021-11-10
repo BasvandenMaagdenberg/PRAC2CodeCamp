@@ -27,7 +27,8 @@
         </li>
     </div>
 </div>
-</main>
 <?php require_once '../../../footer.php';?>
+</main>
+
 </body>
 </html>

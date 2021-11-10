@@ -60,8 +60,9 @@
                 Fanta is in 1940 in Duitsland ontstaan als vervanging voor Coca-Cola als gevolg van het Amerikaanse handelsembargo van nazi-Duitsland dat de beschikbaarheid van Coca-Cola-ingrediënten beïnvloedde. 
                 Fanta domineerde al snel de Duitse markt met drie miljoen verkochte blikjes in 1943. De huidige formulering van Fanta werd in 1955 in Italië ontwikkeld.
             </li>
+            <?php require_once'../footer.php';?>
         </main>
-        <?php require_once'../footer.php';?>
+        
     </body>
 
     </html>

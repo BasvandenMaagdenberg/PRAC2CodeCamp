@@ -42,7 +42,8 @@
                     </div>
                 </div>
             </div>
+            <?php require_once '../../footer.php';?>
         </main>
-<?php require_once '../../footer.php';?>
+
     </body>
 </html>

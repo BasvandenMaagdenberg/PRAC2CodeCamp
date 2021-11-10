@@ -15,7 +15,7 @@
                     <img src="../../img/BohemainRhapsody.jpg">
                 </div>
                 <div class="Songtext">
-                    
+
                     <p>Is this the real life?
                     Is this just fantasy?
                     Caught in a landside,
@@ -92,8 +92,9 @@
         </div>
 
     </div>
+    <?php require_once '../../footer.php';?>
 
 </main>
-<?php require_once '../../footer.php';?>
+
 </body>
 </html>

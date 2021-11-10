@@ -38,8 +38,8 @@
                     </div>
                 </div>
             </div>
+            <?php require_once'../footer.php'?>
         </main>
-        <footer>
-        </footer>
+
     </body>
 </html>
