@@ -15,79 +15,68 @@
                     <img src="../../img/KillerQueen.jpg">
                 </div>
                 <div class="Songtext">
-                   <p>
-                    She keeps her Moet et Chandon<br>
-                    In her pretty cabinet<br>
-                    "Let them eat cake", she says<br>
-                    Just like Marie Antoinette<br>
-                    A built-in remedy<br>
-                    For Khrushchev and Kennedy<br>
-                    At anytime an invitation<br>
-                    You can't decline<br>
-                    <br>
 
-                    Caviar and cigarettes<br>
-                    Well versed in etiquette<br>
-                    Extraordinarily nice<br>
-                    <br>
+                   <p>She keeps her Moet et Chandon
+                    In her pretty cabinet
+                    "Let them eat cake", she says
+                    Just like Marie Antoinette
+                    A built-in remedy
+                    For Khrushchev and Kennedy
+                    At anytime an invitation
+                    You can't decline</p>
 
+                    <p>Caviar and cigarettes
+                    Well versed in etiquette
+                    Extraordinarily nice</p>
 
-                    She's a Killer Queen<br>
-                    Gunpowder, gelatine<br>
-                    Dynamite with a laser beam<br>
-                    Guaranteed to blow your mind<br>
-                    Anytime<br>
-                    <br>
+                    <p>She's a Killer Queen
+                    Gunpowder, gelatine
+                    Dynamite with a laser beam 
+                    Guaranteed to blow your mind 
+                    Anytime</p>
 
-                    Recommended at the price<br>
-                    Insatiable an appetite<br>
-                    Wanna try?<br>
-                    <br>
+                    <p>Recommended at the price
+                    Insatiable an appetite
+                    Wanna try?</p>
 
-                    To avoid complications<br>
-                    She never kept the same address<br>
-                    In conversation<br>
-                    She spoke just like a baroness<br>
-                    Met a man from China<br>
-                    Went down to Geisha Minah<br>
-                    Then again incidentally<br>
-                    If you're that way inclined<br>
-                    <br>
+                    <p>To avoid complications
+                    She never kept the same address
+                    In conversation
+                    She spoke just like a baroness
+                    Met a man from China
+                    Went down to Geisha Minah
+                    Then again incidentally
+                    If you're that way inclined</p>
 
-                    Perfume came naturally from Paris (naturally)<br>
-                    For cars she couldn't care less<br>
-                    Fastidious and precise<br>
-                    <br>
+                    <p>Perfume came naturally from Paris (naturally)>
+                    For cars she couldn't care less
+                    Fastidious and precise</p>
 
-                    She's a Killer Queen<br>
-                    Gunpowder, gelatine<br>
-                    Dynamite with a laser beam<br>
-                    Guaranteed to blow your mind<br>
-                    Anytime<br>
-                    <br>
+                    <p>She's a Killer Queen
+                    Gunpowder, gelatine
+                    Dynamite with a laser beam
+                    Guaranteed to blow your mind
+                    Anytime</p>
 
-                    Drop of a hat she's as willing as<br>
-                    Playful as a pussy cat<br>
-                    Then momentarily out of action<br>
-                    Temporarily out of gas<br>
-                    To absolutely drive you wild, wild<br>
-                    She's all out to get you<br>
-                    <br>
+                    <p>Drop of a hat she's as willing as
+                    Playful as a pussy cat
+                    Then momentarily out of action
+                    Temporarily out of gas
+                    To absolutely drive you wild, wild
+                    She's all out to get you</p>
 
-                    She's a Killer Queen<br>
-                    Gunpowder, gelatine<br>
-                    Dynamite with a laser beam<br>
-                    Guaranteed to blow your mind<br>
-                    Anytime<br>
-                    <br>
+                    <p>She's a Killer Queen
+                    Gunpowder, gelatine
+                    Dynamite with a laser beam
+                    Guaranteed to blow your mind
+                    Anytime</p>
 
-                    Recommended at the price<br>
-                    Insatiable an appetite<br>
-                    Wanna try?<br>
-                    You wanna try<br>
-                    <br>
+                    <p>Recommended at the price
+                    Insatiable an appetite
+                    Wanna try?
+                    You wanna try</p>
 
-                </p>   
+                  
             </div>
 
         </div>
