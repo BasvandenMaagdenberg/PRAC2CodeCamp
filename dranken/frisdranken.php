@@ -19,7 +19,7 @@
                                 In ruimere zin worden, volgens de Nederlandse Warenwet, ook niet-koolzuurhoudende limonades, sportdranken en energiedranken tot de frisdranken gerekend.
                             </b></p>
                             
-                            <h2>Enkele voorbeelden van frisdranken:</h2>
+                            <h2>Voorbeelden van frisdranken:</h2>
                             <li><b>Coca Cola</b></li>
                             <p>
                                 Coca-Cola, of Coke, is een koolzuurhoudende frisdrank vervaardigd door The Coca-Cola Company. 
@@ -45,6 +45,11 @@
                                 Coca-Cola stond op nummer 87 in de Fortune 500-lijst van 2018 van de grootste bedrijven in de Verenigde Staten op basis van totale.
                             </p>
                             
+                            <p>
+                                <a href="<?php echo $base_url;?>infopaginas/personages/jamesbond.php">Roger Moore</a>
+                            </p>
+                             
+
                             <li><b>Fanta</b></li>
                             <p>
                                 Fanta is een merk van koolzuurhoudende frisdranken met fruitsmaak, gecreëerd door Coca-Cola Deutschland onder leiding van de Duitse zakenman Max Keith. 

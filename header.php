@@ -26,7 +26,7 @@
 					<i class="fa fa-caret-down"></i>
 				</button>
 				<div class="dropdown-content">
-					<a href="<?php echo $base_url;?>infopaginas/catagorien.php">Gereedschappen</a>
+					<a href="<?php echo $base_url;?>infopaginas/gereedschappen/catagorien.php">Gereedschappen</a>
 					<a href="<?php echo $base_url;?>infopaginas/personages/catagorien.php">Personages</a>
 					<a href="<?php echo $base_url;?>infopaginas/overig/Boeken.php">Boeken</a>
 				</div>
