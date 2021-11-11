@@ -15,8 +15,8 @@
 						<i class="fa fa-caret-down"></i>
 					</button>
 					<div class="dropdown-content">
-						<a href="<?php echo $base_url;?>dranken/warm.php">Warmen Dranken</a>
-						<a href="<?php echo $base_url;?>dranken/frisdranken.php">Fris Dranken</a>
+						<a href="<?php echo $base_url;?>dranken/warm.php">Warme Dranken</a>
+						<a href="<?php echo $base_url;?>dranken/frisdranken.php">Frisdranken</a>
 					</div>
 				</div>
 			</div>
@@ -28,7 +28,7 @@
 				<div class="dropdown-content">
 					<a href="<?php echo $base_url;?>infopaginas/catagorien.php">Gereedschappen</a>
 					<a href="<?php echo $base_url;?>infopaginas/personages/catagorien.php">Personages</a>
-					<!-- <a href="<?php echo $base_url;?>overig/catagorien.php">boeken / externe verwijzingen</a> <--></-->
+					<a href="<?php echo $base_url;?>infopaginas/overig/Boeken.php">Boeken</a>
 				</div>
 			</div>
 
