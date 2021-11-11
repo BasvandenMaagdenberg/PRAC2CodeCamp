@@ -139,6 +139,11 @@ footer{
   width: 900px;
   margin:0 auto;
 }
+.MuseContainer{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
 
 .container h1{
   margin:20px;
