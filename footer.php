@@ -6,13 +6,13 @@
 
   
   <div class="rechts">
-    <h3>contact infomatie</h3>
+    <h3>Contact infomatie</h3>
     
     <ul>
 
-      <li>  email: vbCodeCamp@voorbeeld.com</li>
-      <li>    tel: 06-12420697 </li>
-      <li>locatie: Koestraat 1 in Den Bosch</li>
+      <li>  Email: vbCodeCamp@voorbeeld.com</li>
+      <li>    Tel: 06-12420697 </li>
+      <li>Locatie: Koestraat 1 in Den Bosch</li>
     </ul> 
   </div>
   
