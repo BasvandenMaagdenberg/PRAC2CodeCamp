@@ -111,6 +111,7 @@ main{
 footer{
   padding-top:20px;
   padding-bottom: 20px;
+  margin-top: 40px;
   background-color:#333;
   color: whitesmoke;
   justify-content: space-evenly;
@@ -121,9 +122,8 @@ footer{
 }
 
 
-
-li {
-  text-decoration: none;
+.rechts ul{
+  list-style-type: none;
 }
 
 .personage-container{
@@ -138,6 +138,11 @@ li {
   justify-content: center;
   width: 900px;
   margin:0 auto;
+}
+.MuseContainer{
+  width: 100%;
+  display: flex;
+  justify-content: center;
 }
 
 .container h1{
@@ -313,6 +318,7 @@ padding-top: 10px;
 
 .pib-rood  {
   background-color: #cc0000;
+  font-size: 20px;
 }
 /*plug in baby orange*/
 .pib-orange{
@@ -325,11 +331,13 @@ padding-top: 10px;
 .Uprising{
   background-color: #B97D4B;
   color: #cc0000;
+  font-size: 15px;
   
 }
 
 .SongtextKillerqueen{
   background-color: #4682B4;
+
 }
 
 .return-btn{
