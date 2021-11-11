@@ -7,7 +7,7 @@
 <?php require_once'../../header.php';?>
 
   <main>
-      <div class="container "> 
+      <div class="MuseContainer "> 
         <div class="cato-keuze-temp">
           
             <h3>Madness</h3>
