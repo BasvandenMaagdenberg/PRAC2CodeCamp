@@ -111,7 +111,6 @@ main{
 footer{
   padding-top:20px;
   padding-bottom: 20px;
-  margin-top: 40px;
   background-color:#333;
   color: whitesmoke;
   justify-content: space-evenly;
@@ -181,6 +180,8 @@ footer{
   max-width: 350px;
   max-height: auto;
 }
+
+
 
 /*==================================== Navbar ================================= */
 
@@ -396,6 +397,7 @@ main#madness{
  .InfoText{ 
   font-size: 17px;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin-bottom: 40px;
 }
 
 /* ========================= All info pages ========================= */
