@@ -19,7 +19,7 @@
             <button>
               <a href="<?php echo $base_url;?>infopaginas/catagorien.php">
                 <h4>
-                  gereedschappen / personages / overige info pagina's
+                  Gereedschappen / personages / overige info pagina's
                 </h4>
               </a>
             </button>
