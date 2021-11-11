@@ -62,7 +62,7 @@
 					<button>
 						<a href="lukeskywalker.php">
 							<h4>
-								luke Skywalker
+								Luke Skywalker
 							</h4>
 						</a>
 					</button>	
