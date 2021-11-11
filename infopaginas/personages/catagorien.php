@@ -54,7 +54,7 @@
 				</div>	
 				<div class="cato-keuze-temp">
 					
-					<h3>luke Skywalker</h3>
+					<h3>Luke Skywalker</h3>
 					<img src="" alt="">
 					<p>Vind hier alle informatie over Luke Skywalker</p>
 

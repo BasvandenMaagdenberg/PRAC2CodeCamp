@@ -9,14 +9,14 @@
     <main>
       <div class="container"> 
         <div class="cato-keuze-temp">
-          <h3>gereedschappen</h3>
+          <h3>Gereedschappen</h3>
           <img src="" alt="">
           <p>beschrijving van de catogorie. hier vertel je iets over wat de keuze in houd om de gebruiker een beter beeld te geven over wat ze kunnen vinden binnen deze catogorie.</p>
 
           <button>
             <a href="gereedschappen/catagorien.php">
               <h4>
-                gereedschappen
+                Gereedschappen
               </h4>
             </a>
           </button>
@@ -24,14 +24,14 @@
 
       <div class="cato-keuze-temp">
 
-        <h3>personages</h3>
+        <h3>Personages</h3>
         <img src="" alt="">
         <p>beschrijving van de catogorie. hier vertel je iets over wat de keuze in houd om de gebruiker een beter beeld te geven over wat ze kunnen vinden binnen deze catogorie.</p>
 
         <button>
           <a href="personages/catagorien.php">
             <h4>
-              personages
+              Personages
             </h4>
           </a>
         </button>
@@ -39,14 +39,14 @@
 
     <div class="cato-keuze-temp">
 
-      <h3>boeken</h3>
+      <h3>Boeken</h3>
       <img src="" alt="">
       <p>beschrijving van de catogorie. hier vertel je iets over wat de keuze in houd om de gebruiker een beter beeld te geven over wat ze kunnen vinden binnen deze catogorie.</p>
 
       <button>
         <a href="overig/boeken.php">
           <h4>
-            boeken
+            Boeken
           </h4>
         </a>
       </button>
