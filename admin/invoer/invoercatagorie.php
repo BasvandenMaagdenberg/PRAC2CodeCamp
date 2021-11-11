@@ -8,8 +8,8 @@
 <?php require_once'../header.php';?>
 	<main>
 		<div class="container">
-			<div class="cato-keuze-temp">
-				 
+			<div class="cato-container">
+					<div class="cato-keuze-temp">
 						<h3>dranken invoeren</h3>
 						<img src="" alt="">
 						<p>hier kan de persoon die recht tot deze pagina heeft boeken/songtexten/info pagina's toevoegen. hier onder vind u de verschillende forms om deze verschillende dingen toe te voegen</p>
@@ -21,7 +21,6 @@
 								</h4>
 							</a>
 						</button>
-					</div>
 				</div>
 				<div class="cato-keuze-temp">
 					
@@ -36,7 +35,6 @@
 								</h4>
 							</a>
 						</button>
-					</div>
 				</div>
 				<div class="cato-keuze-temp">
 					
@@ -57,7 +55,7 @@
 		</div>
  </main>
  <?php require_once '../../footer.php';?>
-	<!-- Add your site or application content here -->s
+	<!-- Add your site or application content here -->
 	<script src="js/vendor/modernizr-3.11.2.min.js"></script>
 	<script src="js/plugins.js"></script>
 	<script src="js/main.js"></script>

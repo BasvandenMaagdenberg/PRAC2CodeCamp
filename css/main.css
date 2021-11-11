@@ -416,7 +416,61 @@ main#madness{
 main .InfoPaginaLukeSkywalker, main .InfoPaginaTimothyDalton{
   background-color: #317F43;
 }
+/*=============================== admin invoer ================================*/
 
+.form-create{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  width: 40%;
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+
+}
+.flex-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.form-group{
+  margin-bottom: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+.form-group-submit{
+  text-align: center;
+}
+.form-group-submit input{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  width: 200px;
+  height: 50px;
+  border: 5px solid grey;
+  border-radius: 6px;
+  background: #fff;
+  font-size: 20px;
+}
+.form-group-submit input:hover{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  width: 205px;
+  height: 55px;
+  border: 5px solid grey;
+  border-radius: 7px;
+  background: #fff;
+  font-size: 20px;
+}
+.form-group label{
+  font-size: 20px;
+}
+.form-group input{
+  width: 250px;
+}
+/*============================= view page ===================================*/
+tr{
+  background: lightgray;
+}
+.boek-info{
+  padding: 10px;
+  margin: 0auto;
+}
 /* ==========================================================================
    Helper classes
    ========================================================================== */

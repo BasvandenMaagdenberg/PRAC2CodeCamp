@@ -8,7 +8,8 @@
 		<div class="form-wrapper">
 			<div class="flex-container">
 				<div class="form-create">
-					<form action="../../backend/boekenController.php" method="POST">
+					<table>
+						<form action="../../backend/boekenController.php" method="POST">
 							<input type="hidden" name="action" value="create">
 							<h1>voer een nieuw boek in</h1>
 							<p>vul de onderstaande invoer velden in met de informatie over een boek</p>
@@ -40,6 +41,7 @@
 								<input type="submit" name="submit" value="aanmaken">
 							</div>
 					</form>
+					</table>
 	</main>
 	<?php require_once'../../footer.php'?>
 </body>
