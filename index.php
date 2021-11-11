@@ -8,8 +8,7 @@
 
 
   <main>
-  <script src="https://cdn.logwork.com/widget/text.js"></script> 
-            <a href="https://logwork.com/clock-widget/" class="clock-widget-text" data-timezone="Europe/Amsterdam" data-language="nl">Datum en Tijd</a>
+  
     <div class="container">
       <div class="cato-keuze-temp">
           <img src="" alt="">
@@ -20,37 +19,42 @@
             <button>
               <a href="<?php echo $base_url;?>infopaginas/catagorien.php">
                 <h4>
-                  gereedschappen / persona's / overige info pagina's
+                  Gereedschappen / personages / overige info pagina's
                 </h4>
               </a>
             </button>
       </div>
       <div class="cato-keuze-temp">
-          <h3>dranken | warm / fris |</h3>
+          <h3>Dranken | warm / fris |</h3>
           <img src="" alt="">
           <p>beschrijving van de catogorie. hier vertel je iets over wat de keuze in houd om de gebruiker een beter beeld te geven over wat ze kunnen vinden binnen deze catogorie.</p>
 
           <button>
             <a href="<?php echo $base_url;?>dranken/catagorien.php">
               <h4>
-                dranken | warm / fris |
+                Dranken | warm / fris |
               </h4>
             </a>
           </button>
       </div>
       <div class="cato-keuze-temp">
-          <h3>songtexten</h3>
+          <h3>Songtexten</h3>
           <img src="" alt="">
           <p>beschrijving van de catogorie. hier vertel je iets over wat de keuze in houd om de gebruiker een beter beeld te geven over wat ze kunnen vinden binnen deze catogorie.</p>
 
           <button>
             <a href="<?php echo $base_url;?>songtexten/artiestencatogorieen.php">
               <h4>
-                songtexten
+                Songtexten
               </h4>
             </a>
           </button>
       </div>
+    </div>
+    <div class="klok">
+    <script src="https://cdn.logwork.com/widget/text.js"></script> 
+            <a href="https://logwork.com/clock-widget/" class="clock-widget-text" data-timezone="Europe/Amsterdam" data-language="nl">Datum en Tijd</a>
+
     </div>
   </main>
   <?php require_once 'footer.php';?>

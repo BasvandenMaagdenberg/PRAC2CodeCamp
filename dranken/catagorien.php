@@ -10,28 +10,28 @@
     <div class="container">
         <div class="cato-keuze-temp">
           
-            <h3>warme dranken</h3>
+            <h3>Warme dranken</h3>
               <img src="" alt="">
               <p>beschrijving van de catogorie. hier vertel je iets over wat de keuze in houd om de gebruiker een beter beeld te geven over wat ze kunnen vinden binnen deze catogorie.</p>
 
               <button>
                 <a href="<?php echo $base_url;?>/dranken/warm.php">
                   <h4>
-                    warme dranken
+                    Warme dranken
                   </h4>
                 </a>
               </button>
         </div>
       <div class="cato-keuze-temp">
         
-          <h3>frisdranken</h3>
+          <h3>Frisdranken</h3>
           <img src="" alt="">
           <p>beschrijving van de catogorie. hier vertel je iets over wat de keuze in houd om de gebruiker een beter beeld te geven over wat ze kunnen vinden binnen deze catogorie.</p>
 
           <button>
             <a href="<?php echo $base_url;?>dranken/frisdranken.php">
               <h4>
-                frisdranken
+                Frisdranken
               </h4>
             </a>
           </button>
@@ -42,7 +42,7 @@
     </div>  
   </main>
     <?php require_once '../footer.php';?>
-  <!-- Add your site or application content here -->s
+  <!-- Add your site or application content here -->
   <script src="js/vendor/modernizr-3.11.2.min.js"></script>
   <script src="js/plugins.js"></script>
   <script src="js/main.js"></script>

@@ -10,14 +10,14 @@
       <div class="container"> 
         <div class="cato-keuze-temp">
           
-            <h3>bohemian rhapsody</h3>
+            <h3>Bohemian rhapsody</h3>
             <img src="" alt="">
             <p>beschrijving van de catogorie. hier vertel je iets over wat de keuze in houd om de gebruiker een beter beeld te geven over wat ze kunnen vinden binnen deze catogorie.</p>
 
             <button>
               <a href="<?php echo $base_url;?>songtexten/queen/bohemianrhapsody.php">
                 <h4>
-                  bohemian rhapsody
+                  Bohemian rhapsody
                 </h4>
               </a>
             </button>

@@ -10,56 +10,56 @@
       <div class="container "> 
         <div class="cato-keuze-temp">
           
-            <h3>madness</h3>
+            <h3>Madness</h3>
               <img src="" alt="">
               <p>beschrijving van de catogorie. hier vertel je iets over wat de keuze in houd om de gebruiker een beter beeld te geven over wat ze kunnen vinden binnen deze catogorie.</p>
 
               <button>
                 <a href="<?php echo $base_url;?>songtexten/muse/madness.php">
                   <h4>
-                    madness
+                    Madness
                   </h4>
                 </a>
               </button>
         </div>
       <div class="cato-keuze-temp">
         
-          <h3>plug in baby ( oranje )</h3>
+          <h3>Plug in baby ( oranje )</h3>
           <img src="" alt="">
           <p>beschrijving van de catogorie. hier vertel je iets over wat de keuze in houd om de gebruiker een beter beeld te geven over wat ze kunnen vinden binnen deze catogorie.</p>
 
           <button>
             <a href="<?php echo $base_url;?>songtexten/muse/plug-in-baby-orange.php">
               <h4>
-                plug in baby ( oranje )
+                Plug in baby ( oranje )
               </h4>
             </a>
           </button>
       </div>
       <div class="cato-keuze-temp">
         
-          <h3>plug in baby ( rood )</h3>
+          <h3>Plug in baby ( rood )</h3>
           <img src="" alt="">
           <p>beschrijving van de catogorie. hier vertel je iets over wat de keuze in houd om de gebruiker een beter beeld te geven over wat ze kunnen vinden binnen deze catogorie.</p>
 
           <button>
             <a href="<?php echo $base_url;?>songtexten/muse/plug-in-baby-rood.php">
               <h4>
-                plug in baby ( rood )
+                Plug in baby ( rood )
               </h4>
             </a>
           </button>
       </div>
       <div class="cato-keuze-temp">
         
-          <h3>uprising</h3>
+          <h3>Uprising</h3>
           <img src="" alt="">
           <p>beschrijving van de catogorie. hier vertel je iets over wat de keuze in houd om de gebruiker een beter beeld te geven over wat ze kunnen vinden binnen deze catogorie.</p>
 
           <button>
             <a href="<?php echo $base_url;?>songtexten/muse/uprising.php">
               <h4>
-                uprising
+                Uprising
               </h4>
             </a>
           </button>

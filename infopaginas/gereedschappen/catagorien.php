@@ -9,42 +9,42 @@
     <main>
       <div class="container">
          <div class="cato-keuze-temp">
-          <h3>zagen</h3>
+          <h3>Zagen</h3>
           <img src="" alt="">
           <p>beschrijving van de catogorie. hier vertel je iets over wat de keuze in houd om de gebruiker een beter beeld te geven over wat ze kunnen vinden binnen deze catogorie.</p>
 
           <button>
             <a href="<?php echo $base_url;?>infopaginas/gereedschappen/zagen/catagorien.php">
               <h4>
-                zagen
+                Zagen
               </h4>
             </a>
           </button>
         </div>
 
         <div class="cato-keuze-temp">
-          <h3>hamers</h3>
+          <h3>Hamers</h3>
           <img src="" alt="">
           <p>beschrijving van de catogorie. hier vertel je iets over wat de keuze in houd om de gebruiker een beter beeld te geven over wat ze kunnen vinden binnen deze catogorie.</p>
 
           <button>
             <a href="<?php echo $base_url;?>infopaginas/gereedschappen/hamers.php">
               <h4>
-                hamers
+                Hamers
               </h4>
             </a>
           </button>
       </div>
 
       <div class="cato-keuze-temp">
-        <h3>schroevendraaiers</h3>
+        <h3>Schroevendraaiers</h3>
         <img src="" alt="">
         <p>beschrijving van de catogorie. hier vertel je iets over wat de keuze in houd om de gebruiker een beter beeld te geven over wat ze kunnen vinden binnen deze catogorie.</p>
 
         <button>
           <a href="<?php echo $base_url;?>infopaginas/gereedschappen/schroevendraaier.php">
             <h4>
-              schroevendraaiers
+              Schroevendraaiers
             </h4>
           </a>
         </button>
@@ -52,6 +52,7 @@
     </div>
   </div>
 </main>
+<?php require_once '../../footer.php';?>
 <!-- Add your site or application content here -->
 <script src="js/vendor/modernizr-3.11.2.min.js"></script>
 <script src="js/plugins.js"></script>
