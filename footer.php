@@ -6,7 +6,7 @@
 
   
   <div class="rechts">
-    <h3>Contact infomatie</h3>
+    <h3>Contact informatie:</h3>
     
     <ul>
 
