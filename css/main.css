@@ -152,8 +152,6 @@ footer{
 }
 
 .container h3{
-  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
-  color: #D3D3D3;
   margin-bottom:10px;
   font-size: 25px;
   text-align: center;
@@ -179,8 +177,15 @@ footer{
   float: right;
   max-width: 350px;
   max-height: auto;
+  border: 3px solid black;
 }
 
+.InfoImgJamesBond img{
+  margin: 0px 25px 25px 25px;
+  float: right;
+  max-width: 350px;
+  max-height: auto;
+}
 
 
 /*==================================== Navbar ================================= */

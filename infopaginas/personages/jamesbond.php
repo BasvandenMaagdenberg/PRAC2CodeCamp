@@ -10,7 +10,7 @@
                 <div class="container"> 
                     <div class="InfoPage">
                         <h1>Roger Moore</h1>
-                        <div class="InfoImg">
+                        <div class="InfoImgJamesBond">
                             <img src="../../img/roger-moore-james.png" alt="Img Roger Moore">
                         </div>
                         <div class="InfoText">
