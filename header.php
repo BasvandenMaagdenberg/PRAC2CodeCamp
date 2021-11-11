@@ -46,7 +46,7 @@
 		<div class="nav-return-button dropdown">
 			<button class="dropbtn-home">
 				<a href="javascript:history.go(-1)">
-					ga terug <<<
+					Ga terug <<<
 				</a>
 			</button>
 		</div>
