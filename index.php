@@ -56,6 +56,7 @@
             <a href="https://logwork.com/clock-widget/" class="clock-widget-text" data-timezone="Europe/Amsterdam" data-language="nl">Datum en Tijd</a>
 
     </div>
+    <?php require_once'footer.php';?>
   </main>
   <?php require_once 'footer.php';?>
   <!-- Add your site or application content here -->
@@ -69,6 +70,7 @@
     ga('create', 'UA-XXXXX-Y', 'auto'); ga('set', 'anonymizeIp', true); ga('set', 'transport', 'beacon'); ga('send', 'pageview')
   </script>
   <script src="https://www.google-analytics.com/analytics.js" async></script>
+
 </body>
-<?php require_once'footer.php';?>
+
 </html>
