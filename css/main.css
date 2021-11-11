@@ -387,6 +387,7 @@ main#madness{
  .InfoText{ 
   font-size: 17px;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin-bottom: 40px;
 }
 
 /* ========================= All info pages ========================= */
