@@ -8,8 +8,7 @@
 
 
   <main>
-  <script src="https://cdn.logwork.com/widget/text.js"></script> 
-            <a href="https://logwork.com/clock-widget/" class="clock-widget-text" data-timezone="Europe/Amsterdam" data-language="nl">Datum en Tijd</a>
+  
     <div class="container">
       <div class="cato-keuze-temp">
           <img src="" alt="">
@@ -20,7 +19,7 @@
             <button>
               <a href="<?php echo $base_url;?>infopaginas/catagorien.php">
                 <h4>
-                  Gereedschappen / persona's / overige info pagina's
+                  gereedschappen / personages / overige info pagina's
                 </h4>
               </a>
             </button>
@@ -51,6 +50,11 @@
             </a>
           </button>
       </div>
+    </div>
+    <div class="klok">
+    <script src="https://cdn.logwork.com/widget/text.js"></script> 
+            <a href="https://logwork.com/clock-widget/" class="clock-widget-text" data-timezone="Europe/Amsterdam" data-language="nl">Datum en Tijd</a>
+
     </div>
   </main>
   <?php require_once 'footer.php';?>

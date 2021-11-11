@@ -92,6 +92,9 @@
 .map{
   display: block; 
 }
+.klok{
+  width: 500px;
+}
 :root {
   color: inherit;
 }
@@ -102,6 +105,7 @@ header{
 main{
   width: 100vw;
   height: 97vh;
+  
 }
 footer{
   padding-top:20px;
@@ -112,6 +116,7 @@ footer{
   display: flex;
   flex-direction: row-reverse;
   align-items: center;
+  position: relative;
 }
 
 
