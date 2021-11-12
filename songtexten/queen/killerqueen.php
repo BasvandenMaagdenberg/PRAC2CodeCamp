@@ -12,7 +12,7 @@
                 <h1>Killer Queen</h1>
                 <h3>Queen</h3>
                 <div class="InfoImg">
-                    <img src="../../img/KillerQueen.jpg">
+                    <img src="../../img/KillerQueen2.jpg">
                 </div>
                 <div class="Songtext">
 

@@ -13,7 +13,7 @@
                     <h1>Champion</h1>
                     <h3>Queen</h3>
                     <div class="InfoImg">
-                        <img src="../../img/CHampionQueen.jpg">
+                        <img src="../../img/Queen-We-Are-The-Champions.png">
                     </div>
                     <div class="Songtext">
                         

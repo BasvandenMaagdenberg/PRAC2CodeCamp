@@ -12,7 +12,7 @@
                 <h1>Bohemian Rhapsody</h1>
                 <h3>Queen</h3>
                 <div class="InfoImg">
-                    <img src="../../img/BohemainRhapsody.jpg">
+                    <img src="../../img/QueenBohemian.jpg">
                 </div>
                 <div class="Songtext">
 
